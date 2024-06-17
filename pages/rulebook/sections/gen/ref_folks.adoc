@@ -1,0 +1,33 @@
+// This file was automatically generated.
+
+*Human* +
+The average inhabitant of the Kingdom. +
+*STR* 8, *AGI* 8, *WIT* 8 +
+_Medium-sized creature_, _human intelligence_. +
+
+
+*Elf* +
+Dexterous and wise, they look like tall, beautiful, flawless humans. They are known for their pride and arrogance, which in turn makes them subject of dislike from the other kins. +
+*STR* 8, *AGI* 10, *WIT* 10 +
+_Medium-sized creature_, _human intelligence_. +
+
+
+*Dwarf* +
+Short and stocky, clumsy but strong. They live reclusively in underground cities and are known for their craftsmanship. +
+*STR* 10, *AGI* 6, *WIT* 8 +
+_Medium-sized creature_, _human intelligence_. +
+
+
+*Halfling* +
+Small and frail, but extremely nimble. Halfling communities are small and live simply, trying to keep distance from the chaotic outside world. +
+*STR* 6, *AGI* 10, *WIT* 8 +
+_Medium-sized creature_, _human intelligence_. +
+
+
+*Ogre* +
+Giant mountains of muscle. Not the brightest nor the most agile, but their brawn serves them well in many occasions. +
+*STR* 12, *AGI* 6, *WIT* 6 +
+_Medium-sized creature_, _human intelligence_. +
+
+
+

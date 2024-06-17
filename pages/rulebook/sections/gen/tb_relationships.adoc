@@ -1,0 +1,40 @@
+// This file was automatically generated.
+
+.Relationships
+[[tb_relationships]]
+[options='header, unbreakable', cols="^1h,^7,^7"]
+|===
+h|  2+h|D2
+h|D10
+ h|1 h|2
+|1
+|Met in prison, spent a few years there together.
+|Fought a war together, they share terrible memories.
+|2
+|Met in a tavern, made friends after a few drinks.
+|Served under the same person.
+|3
+|Have been travelling together. It's safer.
+|Are childhood friends, grew up together. Good memories.
+|4
+|Are relatives, they can't stand each other but they still care.
+|Have a common acquaintance who introduced them.
+|5
+|Studied under the same mentor.
+|Are the sole survivors of a previous company.
+|6
+|Are the sole survivors of a ravaged village.
+|Were accomplices in crime.
+|7
+|Are mentor and pupil.
+|Are master and servant.
+|8
+|Just met the other day, but get along surprisingly well.
+|Come from the same village, barely talked before.
+|9
+|Worked together before.
+|Come from two families with close ties.
+|10
+|Have witnessed something weird and incredible together.
+|Share a common secret, they don't talk about it.
+|===

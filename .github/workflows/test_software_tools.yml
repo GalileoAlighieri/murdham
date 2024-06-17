@@ -1,0 +1,39 @@
+name: Test software tools
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  software-tools-checks:
+    name: Test software tools
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.1.1
+      - name: Format
+        working-directory: software_tools
+        run: |
+          cargo fmt
+          if [[ -n $(git status --porcelain) ]]; then
+            exit 1
+          fi
+      - name: Build
+        working-directory: software_tools
+        run: cargo build
+      - name: Run gen_rules
+        working-directory: software_tools
+        run: |
+          cargo run -p gen_rules -- -o ../pages/rulebook/sections/gen
+          git diff
+          if [[ -n $(git status --porcelain) ]]; then
+            exit 2
+          fi
+      - name: Run gen_character
+        working-directory: software_tools
+        run: cargo run -p gen_character

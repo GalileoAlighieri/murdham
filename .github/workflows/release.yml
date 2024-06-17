@@ -1,0 +1,51 @@
+name: Release workflow
+
+on:
+  push:
+    tags:
+      - v*
+  workflow_dispatch:
+
+jobs:
+  create-release:
+    name: Create release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.1.1
+      - name: Setup ruby
+        uses: ruby/setup-ruby@v1.172.0
+        with:
+          ruby-version: '3.3'
+      - name: Install asciidoctor
+        run: gem install asciidoctor
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@v1.1.4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Version ${{ github.ref }} release
+          draft: false
+          prerelease: false
+      - name: Generate html
+        run: asciidoctor ./pages/rulebook/murdham.adoc -o ./out/murdham.html -a copycss -a !linkcss
+      - name: Upload html
+        uses: actions/upload-release-asset@v1.0.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./out/murdham.html
+          asset_name: murdham.html
+          asset_content_type: text/html
+      - name: Upload character sheet
+        uses: actions/upload-release-asset@v1.0.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./assets/character_sheet_a4.pdf
+          asset_name: character_sheet_a4.pdf
+          asset_content_type: application/pdf

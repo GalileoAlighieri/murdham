@@ -1,0 +1,186 @@
+// This file was automatically generated.
+
+=== Skills
+
+* *Acrobatics*.
+Pick one while moving on difficult ground: move at full speed, automatically pass saves to avoid falling, balance on extremely difficult terrain. You automatically pass saves to leap normal distances, and can leap almost impossible distances by passing a save. When you fall, you reduce the falling distance by 4 metres if you pass the AGI save, and by 2 metres even if you fail.
+
+* *Acting*.
+You are able to convincingly fake emotions and to disguise your voice and accent. This might give you an advantage in suitable social interactions or can be used to complement a disguise.
+
+* *Alchemy*.
+You can read and write. You can speak and understand Classic, the language of scholars and the Church. You can craft alchemical substances, such as _acid vials_, _alchemist's fires_, _flash powder_, and _smoke bombs_. This requires raw materials (worth ¼ of the item) and an alchemist's workshop. You can craft a batch of 2 consumables of the same type in a watch.
+
+* *Ambidexterity*.
+You can use both hands equally well. Damage is not impaired when you attack with a weapon in your non-dominant hand. You can attack the same target with two weapons at once, rolling damage for both but only considering the higher roll.
+
+* *Animal handling*.
+You know how to take care of animals: feeding, grooming, taming, training, recognising signs of discomfort, etc. You can befriend wild animals by offering food and passing a WIT save, and domesticated animals by doing either. Befriended animals follow you until the end of the watch or you leave the area where they live. You can't befriend hostile animals, and you can only be accompanied by one befriended animal at a time.
+
+* *Apothecary*.
+You can craft medicinal substances, such as _antidote_, _cure-all_, _darkroot_, _healing draught_, _madcap mushroom_, _medicine box_, and all kinds of poison. This requires suitable ingredients and _apothecary tools_. Creating a single dose takes only a stretch of time, but ingredients are rare. It takes a watch to gather them in the wilderness (if they are locally present), or to find them for sale in a settlement (they are worth ¼ the value of the end product).
+
+* *Augury*.
+You can spend a stretch to consult the entrails of a dead medium-sized animal to gain an omen. Sometimes, the entrails might provide an useful piece of information, at the GM's discretion.
+
+* *Bargaining*.
+You sell items at full price, rather than half price. Other factors which might reduce the value of an item still apply. You are able to estimate the value of most items just by examining them.
+
+* *Battle frenzy*.
+You can become _frenzied_ by spending a main action or freely when you suffer damage. The condition lasts until all enemies have been defeated. You can spend a main action to try to calm yourself by passing a WIT save. While you are frenzied, you recover 1 health for each enemy you kill.
+
+* *Blathering*.
+You are able to speak endless strings of nonsense, leaving others dumbfounded. You can distract and taunt people without a WIT save in challenging circumstances, and by passing a WIT save in almost impossible circumstances.
+
+* *Boatmanship*.
+You count as two people when rowing a boat and know how to sail. When you forage, on a _fish_ result you find an additional _ration_, even if you don't have _fishing tools_.
+
+* *Brawling*.
+Your unarmed attacks are not impaired and inflict d6 damage. Your armour value is increased by 1 against unarmed attacks.
+
+* *Burglary*.
+Pick one when opening a lock or forcing something open: do it without tools (_crowbar_ or _lock picks_), do it silently, or do it in only one round if you pass the save or in a stretch as usual even if you fail. You can react to traps even when you are unaware of them.
+
+* *Bushcraft*.
+Pass a WIT save to ignore the movement penalty when travelling between sectors or regions without following a path. If you have _navigation tools_, you pass automatically. You can sleep in the wilderness without a _camping kit_. When you forage, you roll twice on the foraging table and apply both results.
+
+* *Charm*.
+You can befriend and persuade people without a WIT save in challenging circumstances, and by passing a WIT save in almost impossible circumstances. If you spend a stretch chatting or observing someone, you are able to estimate if they are bribable, and what it might be necessary to convince them.
+
+* *Cleaving strike*.
+When you inflict critical damage or kill a target with a melee attack, you can immediately attack another target with the same weapon. You can do this at most once per turn, and this rule doesn't apply to attacks made to counter.
+
+* *Climbing*.
+Pick one while climbing: move at full speed, automatically pass saves to avoid falling, climb an almost impossible surface.
+
+* *Contortionism*.
+Your joints are extremely flexible and you can bend your body in absurd shapes. You can squeeze through small openings and easily escape bonds.
+
+* *Crafting*.
+Pick one when repairing an item: do it without a _toolbox_, or do it without having to pass a save to succeed. You can craft non-consumable items, such as weapons, armour, and vehicles. This takes a watch and requires raw materials (worth ¼ of the item) and a workshop with all the necessary tools and equipment. Items with the _durability_ keyword require one watch every 2 points of durability to be crafted.
+
+* *Disarming*.
+When you perform a disarm attack, your target can't resist with a STR save unless they also have this skill. Only characters with this skill can disarm you.
+
+* *Disease resistance*.
+After you recover from a disease, you become immune to it and can't contract it again.
+
+* *Divination*.
+If you have _divination tools_, you can spend an omen and a stretch of time to ask a question pertaining your current situation. The GM describes a vision giving you a cryptic answer. There is a 1:4 chance that the vision is wrong or misleading, rolled secretly by the GM.
+
+* *Driving carts*.
+Pick one while driving a cart: automatically pass a save to prevent the cart from toppling, drive in almost impossible situations. When your cart sprints, you can still use your main action to attack, but it must be done after the movement is fully completed.
+
+* *Erudition*.
+You can read, write, and perform advanced calculations. You can speak and understand Classic, the language of scholars and the Church. You are familiar with all manners of academic lore: history, geography, beasts, plants, philosophy, mathematics, astronomy, etc. When your knowledge might come in handy, the GM you might give you additional information.
+
+* *Fast attack*.
+When you counter an attack or your attack is countered you always hit first unless your opponent also has this skill.
+
+* *Fast dodge*.
+Once per round, you can dodge an attack without spending your turn, even if you have already acted. You can't dodge the same attack twice, but you can dodge and counter the same attack, and you can dodge when your attack is countered. You can use this skill to dodge an opportunity attack or while guarding.
+
+* *Fearless*.
+You are immune to fear and treat terror as fear
+
+* *Fire eating*.
+You can consume _alcoholic drink_ and spit it through an open flame, such as a lit _torch_, to make a melee blast attack inflicting d4 fire damage. You reduce incoming fire damage by 1.
+
+* *Frugality*.
+You don't reduce abilities when you can't satisfy needs during a day rest. However, you still have to satisfy them all in order to heal. You pay half for lodging, as your standards are very low and are content with little.
+
+* *Gossiping*.
+When you take a day or full rest in a settlement, you might hear interesting rumours. The GM decides what you hear, and it isn't necessarily true. You can easily find contacts, even illegal ones such as fences, by spending a watch asking around in a settlement.
+
+* *Healing*.
+When you use a _medicine box_, your patients always recover half their maximum health. You can alternatively use a _medicine box_ spending only a main action instead of a stretch, in which case however you heal the usual amount. When you use _surgery tools_, you are automatically successful without needing to pass a WIT save.
+
+* *Hunting*.
+You automatically follow trails without a WIT save in normally challenging circumstances, and by passing a WIT save in almost impossible situations. When you forage, on a _small game_ result you find an additional _ration_, even if you don't have _trapping tools_.
+
+* *Languages*.
+You can read and write.
+                 Each time you enter into contact with a language there is chance you know it: 1:2 for common languages, 1:4 for dead or remote languages.
+
+* *Leadership*.
+You can inspire, intimidate, and keep the loyalty of retainers, allies, and other underlings without a WIT save in challenging circumstances, and by passing a WIT save in almost impossible circumstances. You can spend a main action to rally all _frightened_ and _terrified_ allies within range 2. They make a group WIT save and those who succeed recover immediately. Each character can be affected by this skill only once per stretch.
+
+* *Lethal attack*.
+When you inflict critical damage with an attack, you may choose to instantly kill the target.
+
+* *Luck*.
+Your maximum omens are increased by 1. When you spend an omen, there is a 1:4 chance it isn't actually spent. When choosing the target of an indiscriminate effect, such as a trap or a monster ambush, the GM might prioritise other characters over you.
+
+* *Magic sense*.
+You can spend a stretch in meditation to sense the presence of magic phenomena (ongoing powers, demons, magical creatures, etc.) in your zone or in your sector (your choice). You can only detect if any magic phenomena is present in the area, but can't count them, locate them, or determine their nature.
+
+* *Magic shield*.
+You can use an ancient technique to erect a magic shield around you. Activating or deactivating it takes a stretch spent in meditation, and it deactivates automatically if you are _incapacitated_ or fall asleep. Sorcerous powers have a 1:2 chance of not working on you, no matter if harmful or beneficial. Other targets aren't protected by the shield. Sacred powers aren't affected. Sorcerers can enhance their powers to ignore the magic shield by increasing their level by 1.
+
+* *Medicine*.
+You can read and write. You can speak and understand Classic, the language of scholars and the Church. You can diagnose poison and disease by spending a round examining a victim. After diagnosing, you can instruct someone with the _apothecary_ skill to create a bespoke _antidote_ or _cure-all_ which always works against the specific poison or disease.
+
+* *Meditating*.
+You heal 1 corruption when you take a day rest.
+
+* *Monster slaying*.
+You inflict double damage against targets larger than you.
+
+* *Music*.
+You know how to sing and play music instruments. During a day rest you can play an inspiring song for your party: all companions have a 1:4 chance of recovering 1 spent omen.
+
+* *Piercing strike*.
+If you roll higher than the target's armour value with a melee weapon (not unarmed attacks), you inflict full damage. If you roll equal or lower, you still inflict no damage.
+
+* *Playing games*.
+You can learn to play games quickly: after you have played a game, you can't be beaten by others unless they also have this skill. You know how to cheat: your cheating attempts are always successful unless your opponents are paying close attention to you. People might still get suspicious if you win too much.
+
+* *Poison resistance*.
+You are resistant to alcohol, poisons, and drugs. You ignore the first dose taken within a stretch. You can resist a second dose with a STR save, and a third dose works automatically.
+
+* *Quick draw*.
+You can equip and unequip any number of items held in hand as a single bonus action.
+
+* *Religion*.
+You can read and write. You can speak and understand Classic, the language of scholars and the Church. You can invoke sacred powers. You can't acquire the _sorcery_ skill.
+
+* *Riding*.
+Pick one while riding: ride without a _saddle_, automatically pass saves to avoid falling, ride in almost impossible situations, ride an untamed beast. When your mount sprints, you can still use your main action to attack, but it must be done after the movement is fully completed.
+
+* *Running*.
+When you sprint, you can move by an additional zone. You can sprint for two consecutive stretches without needing to pass an AGI save, and for a third one by passing an AGI save. You can freely dodge attacks of opportunity, without needing to spend your turn.
+
+* *Shield mastery*.
+When you hold a shield, your armour value is increased by 1 against all attacks, not just if you dodge, counter, or are countered. If you are unaware of the attack, however, your shield still doesn't protect you.
+
+* *Skilled shot*.
+You improve the damage die of ranged attacks: d4 to d6, d6 to d8, d8 to d10, d10 to d12. You can't improve a d12. In case of blast attacks only one target takes increased damage.
+
+* *Skilled strike*.
+You improve the damage die of melee attacks (but not unarmed attacks): d4 to d6, d6 to d8, d8 to d10, d10 to d12. You can't improve a d12. In case of blast attacks only one target takes increased damage.
+
+* *Sneak attack*.
+Your attacks against unaware enemies always inflict d12 damage, no matter what weapons you use or if you are unarmed. Unarmed attacks still inflict impaired damage.
+
+* *Sneaking*.
+Pick one while sneaking: move at full speed, automatically pass saves to avoid being discovered, sneak in almost impossible situations. At the start of an encounter, if your group was detected but you weren't acting recklessly, make an AGI save: on a pass you personally weren't noticed. You could exploit this, for example, to sneak undetected or start a fight concealed.
+
+* *Sorcery*.
+You can read and write. You can speak and understand Magick, the language used to invoke sorcerous powers. This language is too convoluted to be used to communicate, but is essential to use magic. You can invoke sorcerous powers. You can increase your maximum mana by 1 instead of taking a normal advancement, up to 6 at most. You can't acquire the _religion_ skill.
+
+* *Steady aim*.
+You double the range of ranged attacks.
+
+* *Stealing*.
+Pick one while picking pockets: automatically pass saves to avoid being discovered, attempt to steal an item with bulk 1.
+
+* *Strike to stun*.
+When you attack an enemy, you may choose to perform a stunning blow. The attack inflicts no damage but you must still roll for damage. If you roll equal or greater than half the target's remaining health, they are _incapacitated_ until the end of the stretch. If you roll equal or greater than their whole remaining health, they are _incapacitated_ until the end of the watch.
+
+* *Swimming*.
+Pick one while swimming: move at full speed, automatically pass saves to avoid drowning, swim in almost impossible circumstances. Your attacks aren't impaired while swimming. You can hold your breath for twice as long.
+
+* *Wrestling*.
+When you perform a grapple attack, your target can't resist with a STR save unless they also have this skill. Only characters with this skill can grapple you.
+
+

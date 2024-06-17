@@ -1,0 +1,46 @@
+// This file was automatically generated.
+
+.Starting weapons
+[[tb_starting_weapons]]
+[options='header, unbreakable', cols="^1h,^7,^7"]
+|===
+h|  2+h|D2
+h|D12
+ h|1 h|2
+|1
+|Cleaver (d4 damage), 6ʂ
+|Club (d4 damage), 6ʂ
+|2
+|Dagger (d4 damage), 6ʂ
+|Hammer (d4 damage), 6ʂ
+|3
+|Hatchet (d4 damage), 6ʂ
+|Knife (d4 damage), 6ʂ
+|4
+|Sickle (d4 damage), 6ʂ
+|Bullwhip (d4 damage), 6ʂ
+|5
+|Boat hook (bulk 2; d6 damage), 4ʂ
+|Pickaxe (bulk 2; d6 damage), 4ʂ
+|6
+|Pitchfork (bulk 2; d6 damage), 4ʂ
+|Sledgehammer (bulk 2; d6 damage), 4ʂ
+|7
+|Staff (bulk 2; d6 damage), 4ʂ
+|Woodcutting axe (bulk 2; d6 damage), 4ʂ
+|8
+|Morningstar (d6 damage)
+|Spear (d6 damage)
+|9
+|Warhammer (d6 damage)
+|Rusty zweihänder (bulk 2; d8 damage; fragile)
+|10
+|Mancatcher (bulk 2; d4 damage, grab)
+|Blowgun (d4 damage, range 8)
+|11
+|Darts (d4 damage, range 8)
+|Sling (d4 damage, range 8)
+|12
+|Makeshift bow (bulk 2; d6 damage, range 8; fragile)
+|Old pistol (d6 damage, range 8, reload; fragile)
+|===

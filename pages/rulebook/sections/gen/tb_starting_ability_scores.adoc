@@ -1,0 +1,22 @@
+// This file was automatically generated.
+
+.Starting ability scores
+[[tb_starting_ability_scores]]
+[options='header, unbreakable', cols="^1,^4,^1,^4,^1,^4"]
+|===
+|D12 |Scores
+|D12 |Scores
+|D12 |Scores
+|1 |8, 8, 8
+|2 |9, 8, 7
+|3 |9, 9, 6
+|4 |10, 7, 7
+|5 |10, 8, 6
+|6 |10, 9, 5
+|7 |11, 7, 6
+|8 |11, 8, 5
+|9 |12, 6, 6
+|10 |12, 7, 5
+|11 |13, 6, 5
+|12 |14, 5, 5
+|===

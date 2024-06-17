@@ -1,0 +1,22 @@
+// This file was automatically generated.
+
+.Sorcerous powers
+[[tb_sorcerous_powers]]
+[options='header, unbreakable', cols="^1,^4,^1,^4,^1,^4"]
+|===
+|D12 |Power
+|D12 |Power
+|D12 |Power
+|1 |Arcane lock
+|2 |Bewitch
+|3 |Burning vengeance
+|4 |Gift of speech
+|5 |Illusion
+|6 |Levitation
+|7 |Miasma of chaos
+|8 |Occult consultation
+|9 |Plague vessel
+|10 |Purifying flame
+|11 |Reanimate corpse
+|12 |Water breathing
+|===

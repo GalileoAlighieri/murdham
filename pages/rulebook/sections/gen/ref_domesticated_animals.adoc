@@ -1,0 +1,132 @@
+// This file was automatically generated.
+
+*Camel* (128ʂ) +
+*STR* 12, *AGI* 8, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Sturdy*. Double carry limit and bulk. +
+*Kick*. D4 damage. +
+
+
+*Cat* (16ʂ) +
+*STR* 4, *AGI* 12, *WIT* 8 +
+_Small creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Bite & claws*. D6 damage. +
+
+
+*Cattle* (128ʂ) +
+*STR* 16, *AGI* 4, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Sturdy*. Double carry limit and bulk. +
+*Hooves & horns*. D6 damage. +
+
+
+*Chicken* (4ʂ) +
+*STR* 4, *AGI* 8, *WIT* 8 +
+_Small creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Beak*. D4 damage. +
+
+
+*Small dog* (8ʂ) +
+*STR* 4, *AGI* 8, *WIT* 8 +
+_Small creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Bite*. D6 damage. +
+
+
+*Medium dog* (32ʂ) +
+*STR* 4, *AGI* 8, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Bite*. D6 damage. +
+
+
+*Large dog* (64ʂ) +
+*STR* 8, *AGI* 8, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Bite*. D6 damage. +
+
+
+*Donkey* (32ʂ) +
+*STR* 8, *AGI* 4, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Sturdy*. Double carry limit and bulk. +
+*Hooves*. D6 damage. +
+
+
+*Duck* (8ʂ) +
+*STR* 4, *AGI* 8, *WIT* 8 +
+_Small creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Swooping flyer*. Can fly. Can attack but can't stay still while flying. +
+*Beak*. D4 damage. +
+
+
+*Goat* (4ʂ) +
+*STR* 4, *AGI* 4, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Horns*. D4 damage. +
+
+
+*Light horse* (256ʂ) +
+*STR* 12, *AGI* 8, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Sturdy*. Double carry limit and bulk. +
+*Hooves*. D6 damage. +
+
+
+*Heavy horse* (512ʂ) +
+*STR* 16, *AGI* 8, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Sturdy*. Double carry limit and bulk. +
+*Hooves*. D6 damage. +
+
+
+*Mule* (64ʂ) +
+*STR* 12, *AGI* 4, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Sturdy*. Double carry limit and bulk. +
+*Hooves*. D6 damage. +
+
+
+*Pig* (8ʂ) +
+*STR* 4, *AGI* 4, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Bite*. D6 damage. +
+
+
+*Pigeon* (4ʂ) +
+*STR* 2, *AGI* 8, *WIT* 8 +
+_Small creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Swooping flyer*. Can fly. Can attack but can't stay still while flying. +
+*Beak*. D4 damage. +
+
+
+*Pony horse* (128ʂ) +
+*STR* 8, *AGI* 8, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Sturdy*. Double carry limit and bulk. +
+*Hooves*. D6 damage. +
+
+
+*Rabbit* (4ʂ) +
+*STR* 4, *AGI* 8, *WIT* 8 +
+_Small creature_, _animal intelligence_. +
+*Fast*. Moves at double speed. +
+*Bite*. D4 damage. +
+
+
+*Sheep* (4ʂ) +
+*STR* 4, *AGI* 4, *WIT* 8 +
+_Medium-sized creature_, _animal intelligence_. +
+*Hooves*. D4 damage. +
+
+
+

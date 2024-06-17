@@ -1,0 +1,46 @@
+// This file was automatically generated.
+
+.Starting items
+[[tb_starting_items]]
+[options='header, unbreakable', cols="^1h,^7,^7"]
+|===
+h|  2+h|D2
+h|D12
+ h|1 h|2
+|1
+|Acid vial (bulk ½; consumable, d8 damage, range 2), 6ʂ
+|Flash powder (bulk ½; consumable, range 2, blast, stun)
+|2
+|Bear trap (bulk 2)
+|Caltrops
+|3
+|Helmet
+|Warm clothes (bulk 2)
+|4
+|Beastman blood (bulk ½; consumable)
+|Black adder venom (bulk ½; consumable)
+|5
+|Corpse mandrake (bulk ½; consumable)
+|Madcap mushroom (bulk ½; consumable)
+|6
+|Lantern (empty), 6ʂ
+|Oil lamp (bulk ½; consumable), 6ʂ
+|7
+|Chess set
+|Climbing gear (bulk 2)
+|8
+|Field kitchen (bulk 2)
+|Music instrument (flute)
+|9
+|Grappling hook, 6ʂ
+|Lock picks
+|10
+|Lucky charm (bulk ½; cornicello)
+|Manacles & key, 6ʂ
+|11
+|Medicine box (consumable)
+|Mirror
+|12
+|Net
+|Pipe & tobacco (bulk ½; consumable), 6ʂ
+|===

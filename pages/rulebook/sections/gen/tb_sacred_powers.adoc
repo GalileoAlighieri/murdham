@@ -1,0 +1,22 @@
+// This file was automatically generated.
+
+.Sacred powers
+[[tb_sacred_powers]]
+[options='header, unbreakable', cols="^1,^4,^1,^4,^1,^4"]
+|===
+|D12 |Power
+|D12 |Power
+|D12 |Power
+|1 |Rite of bane
+|2 |Rite of blessing
+|3 |Rite of courage
+|4 |Rite of healing
+|5 |Rite of judgement
+|6 |Rite of martyrdom
+|7 |Rite of preservation
+|8 |Rite of protection
+|9 |Rite of purging
+|10 |Rite of purification
+|11 |Rite of restoration
+|12 |Rite of warding
+|===

@@ -1,0 +1,50 @@
+// This file was automatically generated.
+
+.Backgrounds
+[[tb_backgrounds]]
+[options='header, unbreakable', cols="^1h,^3,^3,^3,^3"]
+|===
+h|  4+h|D4
+h|D8
+ h|1 h|2 h|3 h|4
+|1
+|Agitator
+|Artisan
+|Barber-surgeon
+|Boatman
+|2
+|Bone picker
+|Coach driver
+|Cutpurse
+|Deserter
+|3
+|Duellist
+|Entertainer
+|Footpad
+|Gambler
+|4
+|Hunter
+|Jester
+|Labourer
+|Messenger
+|5
+|Peasant
+|Pedlar
+|Physician
+|Pit fighter
+|6
+|Priest
+|Raconteur
+|Rat catcher
+|Ruined noble
+|7
+|Scholar
+|Sharpshooter
+|Slayer
+|Soothsayer
+|8
+|Tomb robber
+|Witch hunter
+|Wizard
+|Zealot
+|===

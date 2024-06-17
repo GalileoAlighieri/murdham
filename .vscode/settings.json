@@ -1,0 +1,40 @@
+{
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "cSpell.language": "en-GB",
+    "cSpell.enableFiletypes": [
+        "asciidoc"
+    ],
+    "cSpell.words": [
+        "adoc",
+        "Alighieri",
+        "Balthasar",
+        "Bastionland",
+        "bloodburn",
+        "boatmanship",
+        "darkroot",
+        "Darksight",
+        "Digworm",
+        "Dowall",
+        "Murdham",
+        "Galileo",
+        "Mausritter",
+        "Mörk",
+        "nofooter",
+        "Nohr",
+        "Pelle",
+        "Reroll",
+        "revdate",
+        "revnumber",
+        "sorcerous",
+        "soulblight",
+        "Soulblight",
+        "Sybilla",
+        "Theobald",
+        "unequip",
+        "Yochai"
+    ],
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "rust-analyzer.inlayHints.parameterHints.enable": false
+}

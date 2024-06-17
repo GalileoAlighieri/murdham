@@ -1,0 +1,10 @@
+[package]
+name = "character"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+convert_case = "0.6.*"
+once_cell = "1.19.*"
+strum = "0.26.*"
+strum_macros = "0.26"

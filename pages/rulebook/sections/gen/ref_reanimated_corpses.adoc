@@ -1,0 +1,28 @@
+// This file was automatically generated.
+
+*Bone raven* +
+A dead raven, empty-eyed, bones carrying rotting flesh. +
+*STR* 4, *AGI* 6, *WIT* 2 +
+_Small undead_, _mindless_. +
+*Fast*. Moves at double speed. +
+*Swooping flyer*. Can fly. Can attack but can't stay still while flying. +
+*Frightening*. Causes fear within range 4. Is immune to _frightening_ characters and treat _terrifying_ characters as _frightening_. +
+*Beak & talons*. D6 damage. +
+
+
+*Shambling corpse* +
+A corpse reanimated by dark magic, left to rot. +
+*STR* 8, *AGI* 4, *WIT* 2 +
+_Medium-sized undead_, _mindless_. +
+*Frightening*. Causes fear within range 4. Is immune to _frightening_ characters and treat _terrifying_ characters as _frightening_. +
+
+
+*Skeletal warrior* +
+An ancient body awakened to serve as an immortal warrior. +
+*STR* 8, *AGI* 4, *WIT* 2 +
+_Medium-sized undead_, _mindless_. +
+*Frightening*. Causes fear within range 4. Is immune to _frightening_ characters and treat _terrifying_ characters as _frightening_. +
+*Assets*: shield (bulk 2; shield, d4 damage), martial hand weapon (d6 damage). +
+
+
+
