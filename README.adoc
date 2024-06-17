@@ -1,0 +1,6 @@
+= Dunkelborough
+:nofooter:
+
+A game of perilous adventures in a fantasy world, combining the atmosphere of old school British role-playing games with light and streamlined rules.
+
+link:https://GalileoAlighieriDev.github.io/dunkelborough-rpg/[Link to the website]
