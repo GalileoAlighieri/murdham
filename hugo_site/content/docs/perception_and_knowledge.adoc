@@ -1,0 +1,37 @@
+---
+title: Perception & Knowledge
+weight: 110
+prev: /docs/positioning_and_movement
+next: /docs/hazards
+---
+:toc:
+
+== Perception
+
+The GM reveals to the Players what they can see, hear, smell, and feel.
+They should lean on the side of providing too much information rather than too little.
+The Players should ask questions to clarify any doubts if they don't have a clear picture of the situation in their mind.
+
+
+== Concealed elements
+
+Concealed elements (traps, hidden caches, secret passages, hiding characters, etc.) can automatically be detected by spending some time to search the area.
+If they aren't perfectly concealed they can also be detected passively, without a search, when nearby by passing a group WIT save.
+
+Searching a zone or a sector takes a stretch or a watch respectively and reveals all concealed elements in it.
+Searching a region takes 2 watches and only reveals a single concealed element within it.
+Two characters can split and search a region in a single watch.
+
+
+== Knowledge
+
+The GM provides information to the Players based on what their characters should realistically know.
+The Players can ask the GM if their characters know more about a specific topic based on their skills and background, and the GM can reveal additional information if deemed appropriate.
+
+
+== Languages
+
+Player characters can speak Common, which is typically the main language spoken in the area where they are adventuring.
+The ability to speak additional languages is granted by skills.
+
+Characters can't read, write, or perform relatively complex calculations unless they have a skill which grants this ability: education is a privilege for few people!

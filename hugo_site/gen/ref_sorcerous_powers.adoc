@@ -1,0 +1,75 @@
+// This file was automatically generated.
+
+== Sorcerous powers
+
+* *Arcane lock*.
+_Near_, _stretch_.
+Target an item which can be opened and closed, such as a door, a box, or a bottle. The target can only be opened by a trigger of your choice (a password, a gesture, contact with a specific item, etc.
+
+** Level+1 -- The target emits a loud sound if someone attempts to open it without using the proper method.
+
+* *Bewitch*.
+_Near_, _stretch_.
+Target a creature. The target attitude towards you improves by a step.
+
+** Level+1 -- Improve the attitude by an additional step
+
+** Level+1 -- Target another creature, who replaces you as the one towards whom attitude is improved.
+
+* *Burning vengeance*.
+_Near_, _stretch_.
+Target a creature with human intelligence. Name a person they know and remind how they have been wronged by them, no matter if by a small or a big matter. The target becomes obsessed with an irrational desire to take revenge by killing the named person and they will fully devote themselves to this end.
+
+* *Eldritch blast*.
+_Near_.
+Target a character or an item. The target is hit by a force blast, which works as a melee attack inflicting d10 damage (impaired against items). If you enhance the power to _sight_ range, it works as a ranged attack instead. All skills and rules concerning attacks apply, and the attack can be dodged or countered as usual. If you enhance the power to _connection_ range, the blast is conjured on top of the target and your skills don't apply any longer, but the target can still dodge.
+
+** Level+1 -- The power inflicts fire, lightning, cold, or heat damage.
+
+* *Gift of speech*.
+_Near_, _stretch_.
+Target a creature with animal intelligence or human intelligence. The target becomes able to speak your language.
+
+* *Illusion*.
+_Near_, _stretch_.
+Target a small zone. You can create an illusion within its boundaries. The illusion can affect sight, hearing, and smell, but not touch. While you are within range, you can concentrate on the illusion to change it or animate it. While you aren't concentrating the illusion remains frozen in the state you left it, and only disappears when the power ends.
+
+* *Levitation*.
+_Near_, _stretch_.
+Target a creature. The target temporarily gains the _landing flyer_ trait.
+
+** Level+1 -- Improve flying by a category: _landing flyer_ to _swooping flyer_, _swooping flyer_ to _hovering flyer_.
+
+* *Miasma of chaos*.
+_Near_, _stretch_.
+Target a small zone. The area is filled with red mist flowing from the ground. Characters entering or starting their turn in the affected area suffer 1 corruption. The mist blocks visibility through it, but it still possible to see nearby characters within it.
+
+** Level+1 -- Double the amount of corruption.
+
+** Level+1 -- The mist covers all zones within range 1 of the targeted one. Enhance again to double the range.
+
+* *Occult consultation*.
+_Near_, _stretch_.
+Target a corpse of a creature who has died no longer than a stretch ago and whose spirit is still lingering in the area. You may ask their spirit one question, but they aren't forced to answer or tell the truth. If you enhance the power range to _connection_, you may query the spirit of a long dead person who is already in the realm of the dead, but in they can only answer by knocking on its entrance. This means they can only answer with a number or a yes-or-no question.
+
+* *Plague vessel*.
+_Near_, _stretch_.
+Target a _sick_ creature. You absorb the disease from the target, who is instantly healed. You carry the disease in your body without suffering its effect. You can attempt to discharge it by touching another creature before the power ends. The target can resist the infection with a STR save, if normally possible. If they resist, the disease stays in your body, and you can attempt to discharge it again later. If the power ends before you discharge the disease, you are infected by it yourself, without chance of a save.
+
+** Level+1 -- Target another creature, who replaces you as the carrier of the disease.
+
+* *Purifying flame*.
+_Near_, _stretch_.
+Target an unlit light source, such as a _candle_, an _oil lamp_, a _torch_, or a bonfire. It is instantly lit with a bright white flame. All creatures illuminated by it are immune to poison and disease. If they are already poisoned, the poison isn't neutralised but its effect is suspended while under the light. If they are already _sick_, they aren't healed but don't suffer negative effects if they fail a recovery roll while under the light.
+
+* *Reanimate corpse*.
+_Near_, _stretch_.
+Target the corpse of a medium-sized (or smaller) creature. It is raised as a reanimated corpse under your control.
+
+** Level+2 -- Increase the maximum size category of the targeted corpse by one step.
+
+* *Water breathing*.
+_Near_, _stretch_.
+Target a creature. Gills and fins appear on the target's body and their hands, feet, or paws become palmate. The target can breathe under water and can swim at full speed.
+
+

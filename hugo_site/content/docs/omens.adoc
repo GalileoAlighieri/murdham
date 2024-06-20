@@ -1,0 +1,42 @@
+---
+title: Omens
+weight: 50
+prev: /docs/corruption_and_mutation
+next: /docs/rest_and_recovery
+---
+:toc:
+
+== Maximum omens
+
+Omens represent luck and divine favour.
+Player characters have a maximum of 2 omens, which can rarely be modified by skills and other effects.
+GM characters normally don't have any omens, but exceptions can be made for particularly important individuals.
+
+
+== Spending omens
+
+* Reroll a failed save.
+You can even do so when you fail a group save, in which case you reroll the die only for yourself, other characters are unaffected.
+
+* Reroll a contest against the character just above you in the ranking, swapping positions if you win.
+If multiple characters have omens to spend, those at the bottom spend their omens first.
+
+* Reroll the die when you suffer damage, keeping the lowest roll.
+You can't reroll damage you inflict.
+
+* Reroll the d12 when you must determine if you suffer soulblight after taking corruption, keeping the result you prefer.
+
+* Reroll on a table, picking the result you prefer.
+
+* Save yourself from death.
+Your health is restored to 1, but you still suffer critical damage and you must roll on the link:../health_and_damage/#tb_injuries[Injuries] table.
+In this case, the effect of the injury is permanent!
+
+
+== Honour the dead
+
+When a Player character dies, the other characters must pay for a funeral at the latest on their next full rest.
+It costs 512ʂ, halved if the dead character's body is returned.
+
+Failing to pay for a funeral is bad luck: all other Player characters permanently reduce their maximum omens by 1.
+If they already have 0 omens, they suffer no additional penalties.

@@ -1,0 +1,132 @@
+---
+title: Hazards
+weight: 120
+prev: /docs/perception_and_knowledge
+next: /docs/encounters
+---
+:toc:
+
+== Falling
+
+Characters who fall by 2 metres or more suffer d4 direct damage for each full 2 metres they have traversed.
+They can attempt to cushion the fall by passing an AGI save, in which case the effective falling distance is reduced by 2 metres.
+
+
+== Suffocating
+
+Characters can hold their breath for 8 rounds.
+After this period they must pass a STR save at the end of each round or pass out, becoming _incapacitated_ until the end of the stretch.
+If they fail another save to resist suffocation while _incapacitated_ they die.
+
+
+== Elemental damage
+
+*Cold and heat* inflicts direct damage.
+Characters in an extremely cold or scorching hot environment suffer d4 impaired cold or heat damage at the end of each stretch.
+
+*Fire* inflicts direct damage, enhanced against targets made of or covered in flammable substances.
+Characters who enter or start their round in a zone which is currently on fire suffer d6 fire damage.
+
+*Lightning* inflicts direct damage, enhanced against targets carrying significant amounts of metal.
+Lightning attacks directed at wet zones behave as blast attacks.
+
+
+== Fear & terror
+
+Characters exposed to frightening or terrifying creatures and events must pass a WIT save or become _frightened_ or _terrified_ respectively until the end of the stretch.
+If they pass they are immune to the same source of fear of terror until the end of the stretch.
+Repeat the WIT save at the start of each stretch, as long as the source of fear persists.
+When multiple characters are affected at once, make a group save.
+
+Some effects let characters ignore fear and treat terror as fear.
+Two such effects can stack together to let characters completely ignore terror as well.
+
+
+== Traps
+
+Traps are concealed elements and thus can be detected by a careful search or, if they aren't well hidden, passively by passing a WIT check when nearby.
+
+Characters who notice a trap can stop in time before triggering it.
+Characters who voluntarily trigger a detected trap can react to it when it makes sense, typically attempting an AGI save to dodge it, but characters who trigger an undetected trap are automatically hit.
+
+
+== Poison
+
+Characters exposed to poison must pass a STR save or suffer its effect.
+If exposed to the same poison a second time during the same stretch, the effect is automatic.
+
+Poison delivery methods:
+
+* *Bloodstream*.
+The poison must enter the victim's blood.
+Weapons and sharp objects can be coated with a dose of the poison, which is delivered on the first attack inflicting at least 1 damage.
+
+* *Ingestion*.
+The poison must be ingested.
+If mixed with food or drinks, characters can passively detect that something is wrong by passing a WIT save unless the food or drink have a very strong taste and smell.
+
+Poison effects:
+
+* *Damaging*.
+Victims must take an _antidote_ by the end of the stretch or suffer d12 direct damage.
+
+* *Corrupting*.
+Victims must take an _antidote_ by the end of the stretch or suffer 4 corruption.
+
+* *Lethal*.
+Victims must take an _antidote_ by the end of the stretch or die.
+
+* *Paralysing*.
+Victims are _incapacitated_ until the end of the stretch.
+The effect ends earlier if they take an _antidote_.
+
+* *Soporific*.
+Victims are _incapacitated_ until the end of the watch.
+The effect ends earlier if they suffer damage or take an _antidote_.
+
+
+
+== Disease
+
+Characters exposed to a disease, including spending time close to someone who is already infected, must pass a STR save or become _sick_.
+_Sick_ characters must make a recovery save based on STR at the end of each day.
+They recover after accumulating 3 successes in total, but they temporarily reduce STR, AGI, and WIT by d4 each time they fail as the symptoms of the disease worsen.
+
+* *Influence*.
+A bad flu, which follows no special rules.
+Symptoms include fever, coughing, sneezing, sore throat, and digestive issues.
+
+* *Black gangrene*.
+Symptoms include high fever and blackening of the feet.
+If a victim fails a recovery roll for the second time, their feet start decomposing.
+They must surgically amputated within a day or the victim dies.
+
+* *Bloodburn*.
+Symptoms include strong headache, blurry visions, and the insatiable need to spill blood.
+After failing a recovery save, victims are _frenzied_ for the whole duration of the next day, and will attack anybody indiscriminately.
+
+* *Bloody flux*.
+Actually very similar to a normal influence and follows no special rules, but people are irrationally terrified by it and will avoid those infected like the plague.
+
+* *Demon pox*.
+Symptoms include hallucinations and weird buboes, constantly changing shape, colour and position.
+Victims who fail a recovery roll additionally suffer 2 corruption.
+
+* *Digworm*.
+A parasite digging into the skin.
+Symptoms include fever, weakness, and constant hunger.
+Healing naturally via recovery saves isn't possible (they are still made to save against negative effects), but the parasite can be surgically removed.
+Not contagious.
+
+* *Greater rot*.
+Symptoms are abhorrent and often leave the victim permanently debilitated: rotting flesh, pulsating buboes, vomiting, diarrhoea, cough, and high fever.
+Victims who fail a recover roll reduce their ability scores as usual, but one point of reduction for each ability is permanent rather than temporary.
+There is no cure, only powers or natural recovery can help.
+
+* *Plague*.
+Symptoms include fever and large buboes.
+Healing requires 6 successful recovery saves.
+
+* *Weeping sores*.
+Symptoms include painful sores appearing all over the body.
+On a failed recovery roll, STR and AGI are reduced by d6 instead of d4, but WIT isn't reduced.

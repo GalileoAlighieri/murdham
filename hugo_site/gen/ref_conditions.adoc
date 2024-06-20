@@ -1,0 +1,56 @@
+// This file was automatically generated.
+
+== Conditions
+
+* *Arm injury*.
+You can't use one of your arms.
+
+* *Blind*.
+You can't see. Enemies are not visible by you (with associated penalties to attacks) and you can't notice anything based on sight alone.
+
+* *Confused*.
+You are not fully in control of your body and mind. Your attacks inflict impaired damage and your abilities are temporarily reduced by 2. When you recover from this condition, your abilities are increased back by 2. If you become _confused_ again while you already are, you become _incapacitated_ instead.
+
+* *Deaf*.
+You can't hear. You can't notice anything based on sound alone and you might have trouble communicating with others or noticing ambushes.
+
+* *Dying*.
+You die at the end of the next round. If you recover at least 1 health before then you are stabilised but suffer an injury.
+
+* *Encumbered*.
+You move at half speed and automatically fail AGI saves. You recover as soon as the total bulk you are carrying doesn't exceed your STR.
+
+* *Entangled*.
+You are unable to act. You can only spend your turn to try to break free by passing a STR save. Nearby characters can attempt to free you by spending a main action and passing a STR save.
+
+* *Eye injury*.
+You are unable to see from one of your eyes. You halve the range of ranged attacks and powers and activities requiring perfect sight or depth perception, such as leaping, might be more challenging.
+
+* *Frenzied*.
+You can only spend your turn to attack, or if that's not possible to move as close as possible to the closest enemy in preparation for a future attack. You can't retreat or stop fighting. You are immune to fear, treat terror as fear, and you aren't _incapacitated_ when you suffer critical damage.
+
+* *Frightened*.
+You are scared by something. You can't approach the source of your fear.
+
+* *Hobbled*.
+Your movement speed is halved and you must use a stick or crutch to stand.
+
+* *Incapacitated*.
+You are unconscious or in terrible pain. You are completely unable to act and defenceless.
+
+* *Poisoned*.
+You suffer the effects of a poison unless you take an antidote in time. See the relevant section for more details.
+
+* *Sick*.
+You must pass a STR save each day to avoid debilitating effects and to recover. See the relevant section for more details.
+
+* *Silenced*.
+You can't speak or emit sounds. Among other things, this renders you unable to invoke powers.
+
+* *Stunned*.
+You are temporarily unable to act: you might be dazed, thrown on the ground, etc. You can't act for a round. In combat, this means you lose your next turn, either on the current round or on the next one (if you have already acted this round).
+
+* *Terrified*.
+You are terrified by something. You must run away from the source of your terror, or if that's not possible you cower down and are considered _incapacitated_.
+
+

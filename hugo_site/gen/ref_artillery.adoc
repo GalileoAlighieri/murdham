@@ -1,0 +1,17 @@
+// This file was automatically generated.
+
+== Artillery
+
+* *Ballista* (256ʂ, bulk 32).
+_Durability 12/4_, _weapon (d8 damage, range 16, blast, reload)_.
+
+* *Catapult* (256ʂ, bulk 32).
+_Durability 12/4_, _weapon (d8 damage, indirect range 32, blast, reload)_.
+
+* *Cannon* (1024ʂ, bulk 32).
+_Durability 12/4_, _weapon (d10 damage, range 16, blast, reload)_.
+
+* *Mortar* (1024ʂ, bulk 32).
+_Durability 12/4_, _weapon (d10 damage, indirect range 32, blast, reload)_.
+
+

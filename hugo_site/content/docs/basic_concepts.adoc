@@ -1,0 +1,116 @@
+---
+title: Basic Concepts
+weight: 10
+prev: /docs/
+next: /docs/abilities_and_saves
+---
+:toc:
+
+== Scenarios
+
+The game is based on scenarios describing the locations, challenges, people, and monsters encountered by the adventurers.
+It is possible to link multiple scenarios to form a long running campaign during which the characters can develop.
+
+A scenario ends once the Players have accomplished their goals, have failed to do so, or have met their demise.
+There aren't winners or losers: the game's main point is to tell a fun emergent story together, and sometimes defeat can be more interesting than triumph!
+
+
+== The GM
+
+If you are the GM, you are responsible for getting familiar with the rules and preparing a scenario to play before the game starts.
+You can write your own scenarios or use those created by others.
+
+During play you are responsible for running the game, acting as an impartial referee.
+You are the Players' eyes and ears, describing the world to them as vividly and completely as possible.
+You also interpret all characters who aren't controlled by the Players, both friends and foes.
+Finally you have the task of judging the outcome of the characters' actions, using these rules as a tool to support your decisions.
+
+It is important to stress that you are not the Players' adversary, and you are playing neither with nor against them.
+Your main goal is for everyone at the table, including yourself, to have fun telling an exciting story together!
+
+
+== The Players
+
+If you are a Player, you are responsible for interpreting your character and keeping track of their state.
+You should strive to portray your character as realistically as possible, acting as if you were in their shoes.
+
+Your main task is to describe what your character intends to do after the GM describes the current situation.
+You are free to think outside of the rules and attempt anything which would realistically make sense under the current circumstances: the GM will adjudicate what happens when it isn't covered in this rulebook.
+Always think about how to use the environment, your skills, and your gear to gain an edge over the obstacles and foes you encounter!
+
+You play cooperatively with the other Players, attempting to reach the goals of the scenario together.
+It is also important to stress that the GM is not your enemy, even though they will often control your foes and place obstacles on your path.
+The GM is there to run the game, creating interesting challenges that you can have fun solving together with the other Players!
+
+
+== The golden rule
+
+The GM decides when and how to apply the rules and can make up new rules on the spot when necessary.
+The rules are just a tool helping the GM adjudicate common situations, they are not the law and are always superseded by the GM's decisions.
+
+The Players should respect the GM's decisions, even when they go against their or their character's interest.
+The GM is not an opponent but is trying to run the game fairly and in an engaging way for everyone.
+
+Above all else, remember that your goal while playing the game is to have fun.
+If everyone is enjoying the game, you are playing in the right way!
+
+
+== Rolling dice
+
+The game uses the notation dX to indicate what die to roll in any given situation, where X is the number of sides of the die.
+A complete set of dice includes a d4, a d6, a d8, a d10, a d12, and a d20.
+Many d10s show a '`0`' instead of a '`10`' on one face: in this case consider any roll of '`0`' as a '`10`'.
+
+To roll a d5, roll a d10 and divide the result by 2, giving a number between 1 and 5.
+To roll a d3, roll a d6 and divide the result by 2, giving a number between 1 and 3.
+To roll a d2, roll a d6 and divide the result by 3, giving a number between 1 and 2.
+
+When something has a x:y chance of happening, it happens on a roll of x or less on a dy.
+For example, a 2:6 chance happens on a roll of 2 or less on a d6.
+
+The dice should always be rolled openly.
+The GM may occasionally roll secretly if knowing the result might spoil the experience for the Players, but shouldn't fudge the result when doing so.
+Whenever the dice are rolled their outcome should be respected!
+
+
+== Rounding numbers
+
+When the result of a division is not a whole number you must round it up, unless otherwise specified.
+For example, for game purposes, half of 5 is 3 (not 2.5, not 2), and 9 divided by 4 is 3 (not 2.25, not 2).
+
+
+== Measuring time
+
+Time in the game is measured using the following intervals:
+
+* *Rounds*.
+About 6 seconds.
+Rounds are used during fights, pursuits, and other situations where a split second can make the difference.
+
+* *Stretches*.
+About 10 minutes (100 rounds).
+Stretches are used when exploring adventure sites, resolving encounters, and in other situations where accurately tracking time is important but playing things out round by round is unnecessary.
+
+* *Watches*.
+About 8 hours (48 stretches).
+Watches are used when travelling and when performing other time-consuming activities.
+
+* *Days*.
+A day is made of three watches: morning (from sunrise), afternoon (from noon), and night (from sunset).
+
+You don't have to keep track of fractions of the larger time units when you switch from rounds to stretches or from stretches to watches.
+The GM decides whether to advance time to the start of the next stretch or watch, if significant time was already spent in smaller time units, or not.
+
+
+== The basic game flow
+
+A game begins in a starting situation described by the GM.
+It is important to introduce the Players' goals so that they know what they are trying to accomplish.
+The game is then played out across several segments, until the company reaches its goals or fails to do so.
+
+A segment can last for a round, a stretch, or a watch, based on the current situation the party is in, most often fighting, exploring a site, or travelling.
+During each segment the Players declare what their characters intend to do and then the GM decides the outcome of their actions, using the rules as a guideline.
+The GM should adjudicate if a specific action takes the whole segment, and if not can allow the Player to perform more actions before the segment ends.
+What can be accomplished in a segment depends on how long it is: activities requiring a few seconds take a round, those taking a few minutes take a stretch, and those taking a few hours take a watch.
+
+During a fight, the order in which characters act matters greatly and a more rigid action structure is followed (see the link:../combat[Combat] section).

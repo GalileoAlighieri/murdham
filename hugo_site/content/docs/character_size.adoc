@@ -1,0 +1,50 @@
+---
+title: Character Size
+weight: 160
+prev: /docs/powers
+next: /docs/mounts_and_vehicles
+---
+:toc:
+
+== Zone occupancy and movement
+
+Tiny characters count as 1/16 towards zone occupancy, small characters as ¼, large characters as 4, and massive characters as 16.
+Larger characters can trample smaller characters after moving, forcing them to move into a nearby zone or border or suffer d4 damage.
+
+
+== Secondary properties
+
+For characters who aren't medium-sized, bulk, carry limit, health, damage inflicted by attacks, and armour value change as shown in the <<tb_size_and_properties>> table.
+
+.Size and properties
+[[tb_size_and_properties]]
+[options='header, unbreakable', cols="^1,^1,^1,^1,^1,^1"]
+|===
+|Size      |Bulk |Carry limit |Health |Damage |Armour value
+|Tiny      |÷16  |÷16         |÷4     |÷4     |×1
+|Small     |÷4   |÷4          |÷2     |÷2     |×1
+|Large     |×4   |×4          |×2     |×2     |×2
+|Massive   |×16  |×16         |×4     |×4     |×4
+|===
+
+
+== Attacks
+
+Massive characters can perform melee attacks within range 1.
+
+All characters can make melee sweep attacks.
+The attack gains the _blast_ keyword, only affects smaller targets, and inflicts half damage.
+
+Blast attacks can be directed at a single large or massive character.
+The attack loses the benefit of the _blast_ keyword but inflicts double damage.
+
+Larger characters can grab smaller character with only a hand or other appendage.
+They are free to perform any action without letting the grabbed character go.
+Instead of shoving the character, they can throw them within range 2, inflicting d4 direct damage.
+
+
+== Saves & contests
+
+Larger characters automatically win STR saves and contests against smaller characters.
+Size might also come into play in other types of saves.
+For example, it might trivial for a smaller character to sneak behind a larger one, and the opposite might be impossible.

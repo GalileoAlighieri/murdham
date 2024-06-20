@@ -1,0 +1,120 @@
+---
+title: Abilities & Saves
+weight: 20
+prev: /docs/basic_concepts
+next: /docs/health_and_damage
+---
+:toc:
+
+== Abilities
+
+The three abilities represent a character's basic proficiencies.
+Each one is associated with a score ranging between 1 and 19.
+
+* *Strength (STR)*.
+Fortitude, might, physical power, toughness.
+
+* *Agility (AGI)*.
+Athleticism, dexterity, reflexes, swiftness.
+
+* *Wits (WIT)*.
+Awareness, charisma, cunning, willpower.
+
+
+== Ability changes
+
+Abilities can change permanently or temporarily due to various effects.
+Temporarily altered abilities are restored after full rests.
+If any ability is reduced to or below 0, even if only temporarily, the character dies.
+Abilities can never exceed 19, or 15 for humans.
+
+
+== Saves
+
+Characters must make a save when threatened or when they attempt to do something challenging or risky, where the outcome is uncertain and failure has consequences.
+They pass the save if they roll equal or less than the most relevant ability score on a d20, otherwise they fail.
+
+The GM decides what are the consequences for failed save and declares them before the dice are rolled.
+If the save was triggered by an action initiated by a Player, they have a last opportunity to change their mind and don't perform the action if they think it's too risky or the consequences too harsh.
+
+A save should is only required for challenging actions.
+Trivial actions should succeed automatically and impossible actions should fail automatically.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Balthasar (AGI 7), Sybilla (AGI 10), and Theobald (AGI 6) want to climb a rocky cliff.
+The GM adjudicates that this is a risky and challenging activity requiring an AGI save: whoever fails will fall and suffer d4 damage.
+Theobald thinks it's too risky for him, and declares he would rather not attempt the climb.
+Balthasar rolls a 6 on a d20: he passes and reaches the top of the climb unharmed.
+Sybilla rolls a 13 on a d20: she isn't so lucky and falls, suffering damage and going back to where she started.
+
+Climbing a ladder is trivial: no save should be required.
+Climbing a vertical rocky surface, or a wet and slipper ladder, is challenging: a save should be required.
+Climbing a sheer, smooth surface is impossible: characters just can't do it.
+
+{{% /details %}}
+++++
+
+
+== Consequences of failure
+
+A failed save doesn't necessarily means a failure in the action itself: the GM may rule that the action is still successful even on failure.
+However, no matter what's the case, the GM should always define at least one additional negative consequence for a failed save.
+These are typical options, but don't feel limited by them:
+
+* The character can't attempt the same action again.
+Other characters can, but don't roll the d20 again: instead compare the same roll result to their own ability score.
+You can think of the result of the roll as as a '`difficulty level`' of the task, which applies to everyone in the same way.
+Make sure the Players have other options to progress through the scenario: a failed save should never completely halt progress!
+
+* The character suffers damage or corruption.
+
+* The character wastes a significant amount of time or resources.
+
+* The character angers someone, attracts unwanted attention, or is put on a spot.
+
+* A piece of equipment is damaged or lost.
+
+
+== Group saves
+
+When the rules require a group of characters to make a group save, roll the d20 once and compare the result with each individual's ability score to see who passes and who fails.
+If it's easier for you to see it this way, every character whose ability score matches or exceeds the d20 roll passes.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Balthasar (WIT 12), Sybilla (WIT 6), and Theobald (WIT 9) encounter a terrifying creature.
+The GM asks them to pass a group WIT save to avoid being overwhelmed by fear.
+One of the Players rolls a d20 and gets a 9: Balthasar and Theobald pass, but Sybilla fails and suffers the effects of fear.
+
+{{% /details %}}
+++++
+
+
+== Contests
+
+Characters who are directly competing against each other must make a contest to determine the winner.
+All competing characters roll a d20 and subtract the result from the most relevant ability score.
+They are then ranked from highest to lowest total.
+Ties are broken by repeating the contest among the tied characters.
+
+Characters who are clearly superior win contests automatically.
+Ability contests are only required when it is uncertain who would win.
+
+Contests should be used rarely: prefer a save if possible, especially in asymmetric situations where one side is clearly more at risk than the other one.
+This speeds up the game and makes it more transparent for the Players to know what their chances are.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Balthasar (STR 5), Sybilla (STR 8), and Theobald (STR 9) decide to engage in a friendly rock-throwing contest.
+The GM decides that the winner will be decided with a STR contest.
+Balthasar rolls a 6 on a d20, for a total of 5−6 = −1.
+Sybilla rolls a 5, for a total of 8−5 = 3.
+Theobald rolls a 20, for a total of 9−20 = −11.
+The ranking is as follows: Sybilla wins, then Balthasar, then Theobald.
+
+{{% /details %}}
+++++

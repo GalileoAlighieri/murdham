@@ -1,0 +1,287 @@
+// This file was automatically generated.
+
+== Gear
+
+* *Alcoholic drink* (4ʂ, bulk ½).
+_Consumable_.
+Recover 1 health, but not if you are _dying_. Pass a STR save or become _confused_ until the end of the stretch. Automatically fail if you drink 2 within a stretch.
+
+* *Animal skin* (4ʂ).
+Skin of a small animal. Multiply cost by 4 and bulk by 2 for each size above small.
+
+* *Antidote* (16ʂ, bulk ½).
+_Consumable_.
+Stops the effects of poison. 1:4 chance it doesn't work.
+
+* *Apothecary tools* (16ʂ, bulk 2).
+Includes mortar, pestle, scales, glassware, etc. Used in combination with the _apothecary_ skill.
+
+* *Bag of dung* (1ʂ).
+Stinky and disgusting
+
+* *Bear trap* (16ʂ, bulk 2).
+Placing it or picking it up is a main action, concealing it takes a stretch. Characters stepping on it suffer d6 damage and are _entangled_.
+
+* *Beastman blood* (16ʂ, bulk ½).
+_Consumable_.
+Ingested corrupting poison.
+
+* *Black adder venom* (16ʂ, bulk ½).
+_Consumable_.
+Bloodstream damaging poison.
+
+* *Book* (16ʂ).
+The price is for a blank book.
+
+* *Brush & paints* (16ʂ, bulk ½).
+_Consumable_.
+Enough to paint a _canvas_.
+
+* *Butterfly sting* (16ʂ, bulk ½).
+_Consumable_.
+Bloodstream soporific poison.
+
+* *Cage* (16ʂ, bulk 2).
+Can contain a small character.
+
+* *Caltrops* (16ʂ).
+As a main action, can be spread in a nearby zone, which counts as difficult ground. Picking them up takes a stretch.
+
+* *Camping kit* (16ʂ, bulk 2).
+Includes a bedroll, blankets, and tent space for one person. Necessary to sleep in the wilderness.
+
+* *Candle* (1ʂ, bulk ½).
+_Consumable_.
+Illuminates a zone until the end of the stretch.
+
+* *Candlestick root* (16ʂ, bulk ½).
+_Consumable_.
+Ingested paralysing poison.
+
+* *Canvas* (16ʂ, bulk 2).
+About 1 metre by 1 metre.
+
+* *Cards* (4ʂ, bulk ½).
+WIT contest to win.
+
+* *Censer* (16ʂ, bulk 2).
+Can be used to burn _incense_.
+
+* *Chain* (4ʂ).
+2 metre.
+
+* *Chalk* (1ʂ, bulk ½).
+_Consumable_.
+Enough to write a few markings.
+
+* *Chess set* (16ʂ).
+WIT contest to win.
+
+* *Chimera spit* (64ʂ, bulk ½).
+_Consumable_.
+Bloodstream lethal poison.
+
+* *Climbing gear* (16ʂ, bulk 2).
+Includes pitons, nails, climbing pickaxes, etc. Can be used to scale sheer surfaces, but it's challenging.
+
+* *Clothes* (16ʂ).
+All you need to cover yourself! Include belts, pouches, bags, and other containers to hold reasonably sized items.
+
+* *Corpse mandrake* (16ʂ, bulk ½).
+_Consumable_.
+Pass a STR save or become numb to pain until the end of the watch: you can't be _incapacitated_ by critical damage. Automatically fail if you take 2 within a stretch. After the effect wears off, suffer d4 direct damage, and pass a WIT save or become _addicted_.
+
+* *Crimson weed* (16ʂ, bulk ½).
+_Consumable_.
+Pass a STR save or temporarily increase all abilities by 2. Automatically fail if you take 2 within a stretch. At the end of the watch, temporarily reduce all abilities by 4, and pass a WIT save or become _addicted_.
+
+* *Crowbar* (16ʂ).
+Spend a stretch and pass a STR save to open a door, chest, etc. Noisy. Can be used as a _simple hand weapon_.
+
+* *Crutch* (4ʂ).
+_hobbled_ characters can use it to walk.
+
+* *Cure-all* (16ʂ, bulk ½).
+_Consumable_.
+Take it before a recovery roll to pass. 1:4 chance it doesn't work.
+
+* *Darkroot* (16ʂ, bulk ½).
+_Consumable_.
+Pass a STR save or be _confused_ until the end of the watch, as you are overwhelmed by pleasant hallucinations. Automatically fail if you take 2 within a stretch. After the effect wears off, pass a WIT save or become _addicted_.
+
+* *Dice* (4ʂ, bulk ½).
+Luck-based game.
+
+* *Divination tools* (16ʂ, bulk 2).
+Include a crystal ball, tarot cards, divination bones, etc. Used in combination with the _divination_ skill.
+
+* *Dream sand* (16ʂ, bulk ½).
+_Consumable_.
+Ingested soporific poison.
+
+* *Field kitchen* (16ʂ, bulk 2).
+Includes pots, pans, kitchen utensils, etc. Food you gather by foraging is doubled and doesn't go bad.
+
+* *Fishing tools* (16ʂ, bulk 2).
+Obtain a _ration_ on a _fish_ result while foraging.
+
+* *Flint & tinder* (4ʂ, bulk ½).
+Can be used to start a fire
+
+* *Gemstone* (1024ʂ, bulk ½).
+Extremely shiny and valuable.
+
+* *Gold jewel* (64ʂ, bulk ½).
+Very shiny and valuable.
+
+* *Grappling hook* (4ʂ).
+Use it to throw ropes and such.
+
+* *Grimoire* (16ʂ).
+Can hold up to 4 _power scrolls_, removing the need to swamp them out to invoke their power.
+
+* *Healing draught* (64ʂ, bulk ½).
+_Consumable_.
+Recover health equal to half STR.
+
+* *Incense* (4ʂ, bulk ½).
+_Consumable_.
+Burns for a stretch. _demons_ are disturbed by it: they must pass a STR save to enter a zone where incense is burning.
+
+* *Ladder* (4ʂ, bulk 4).
+Climbing it is trivial.
+
+* *Lantern* (4ʂ).
+Holds a _candle_ or an _oil lamp_, protecting it from wind and water. Can screen the light.
+
+* *Lockbox & key* (4ʂ).
+Can contain a total bulk of 1.
+
+* *Lock picks* (16ʂ).
+Spend a stretch and pass a WIT save to open a lock.
+
+* *Looking glass* (16ʂ).
+See distant details.
+
+* *Lucky charm* (16ʂ, bulk ½).
+When you spend an omen, there is 1:4 chance it isn't actually spent. If combined with the _luck_ skill, You have in total a 1:2 chance of not losing the omen.
+
+* *Madcap mushroom* (16ʂ, bulk ½).
+_Consumable_.
+Pass a STR save or become _frenzied_ until the end of the stretch. Automatically fail if you take 2 within a stretch. After the effect wears off, pass a WIT save or become _addicted_.
+
+* *Manacles & key* (4ʂ).
+Used to bind someone's hands.
+
+* *Medicine box* (16ʂ).
+_Consumable_.
+Spend a stretch to let a nearby character recover d8 health, but no more than half their maximum.
+
+* *Metal file* (4ʂ).
+Can cut through metal, with enough time.
+
+* *Mirror* (16ʂ).
+A simple hand mirror.
+
+* *Music instrument* (16ʂ).
+Drums, fiddle, flute, Lyre, Lute, etc.
+
+* *Muzzle* (4ʂ).
+To muzzle a dog or similarly sized animal.
+
+* *Navigation tools* (16ʂ, bulk 2).
+Include maps, compass, etc. Pass a WIT save to ignore the movement penalty when travelling between sectors or regions without following a path.
+
+* *Net* (16ʂ).
+Throw it on an enemy: they are _entangled_.
+
+* *Oil lamp* (4ʂ, bulk ½).
+_Consumable_.
+Illuminates the zones within range 1 until the end of the stretch.
+
+* *Painting* (64ʂ, bulk 2).
+A nice painting.
+
+* *Perfume* (16ʂ, bulk ½).
+_Consumable_.
+An exquisite perfume
+
+* *Pipe & tobacco* (4ʂ, bulk ½).
+_Consumable_.
+Smoke it after failing a save in a situation requiring thinking to repeat the save once. Then pass a WIT save or become _addicted_ to it.
+
+* *Power scroll* (64ʂ, bulk ½).
+A scroll recording a sacred or sorcerous power. Trading them is illegal. The knowledge of how to create them has been lost.
+
+* *Prosthesis* (16ʂ).
+Replaces a lost limb. If it replaces a lost leg, you can walk without a crutch.
+
+* *Quill & ink* (4ʂ, bulk ½).
+_Consumable_.
+Enough to write a scroll.
+
+* *Ration* (4ʂ, bulk ½).
+_Consumable_.
+Enough food for a day rest.
+
+* *Reaper's spice* (16ʂ, bulk ½).
+_Consumable_.
+Ingested damaging poison.
+
+* *Rope* (4ʂ).
+4 metre.
+
+* *Rope ladder* (4ʂ, bulk 2).
+2 metre. Trivial to climb.
+
+* *Saddle* (16ʂ, bulk 2).
+Required to ride a mount. Includes saddle bags.
+
+* *Scissors* (4ʂ).
+Used to cut precisely.
+
+* *Scorpion oil* (16ʂ, bulk ½).
+_Consumable_.
+Bloodstream paralysing poison.
+
+* *Scroll* (1ʂ, bulk ½).
+The price is for a blank scroll.
+
+* *Scroll case* (4ʂ).
+Can hold 2 scrolls, protecting them from water and damage.
+
+* *Sealing wax* (4ʂ, bulk ½).
+_Consumable_.
+Used to seal letters in combination with a _signet ring_.
+
+* *Signet ring* (16ʂ, bulk ½).
+Proof of identity, used to stamp _sealing wax_.
+
+* *Silver jewel* (4ʂ, bulk ½).
+Shiny and valuable.
+
+* *Smoke bomb* (16ʂ, bulk ½).
+_Consumable_.
+Throw it at range 2. All zones within range 1 of the targeted one are covered in thick smoke, blocking visibility until the end of the stretch
+
+* *Surgery tools* (16ʂ, bulk 2).
+Include hacksaws, scalpels, knifes, stitches, etc. Performing a surgery takes a stretch and requires passing a WIT save. On a failure the patient suffers d8 direct damage.
+
+* *Toolbox* (16ʂ, bulk 2).
+Includes hammer, saws, nails, etc. Spend a watch and pass a WIT save to repair a damaged item, but on a fail it is destroyed. If the item has the _durability_ keyword, repair or inflict 2 damage instead on a pass or fail.
+
+* *Torch* (1ʂ).
+_Consumable_.
+Illuminates the zones within range 1 until the end of the stretch. Can be used to attack, inflicting d4 fire damage, but follows the improvised weapon rules.
+
+* *Trapping tools* (26ʂ, bulk 2).
+Obtain a _ration_ on a _small game_ result while foraging.
+
+* *Warm clothes* (16ʂ, bulk 2).
+Cold damage is impaired, heat damage is enhanced.
+
+* *Water* (1ʂ, bulk ½).
+_Consumable_.
+Enough for a day rest.
+
+

@@ -1,0 +1,38 @@
+// This file was automatically generated.
+
+== Weapon keywords
+
+* *Blast*.
+Targets all characters in a small zone and on its borders.
+
+* *Direct damage*.
+Inflicts full damage, ignoring the target's armour value.
+
+* *Fire damage*.
+Inflicts fire damage (it is direct damage).
+
+* *Grab*.
+Targets must pass a STR save to avoid being grabbed.
+
+* *Holy damage*.
+Only effective against _demons_ and _undead_.
+
+* *Indirect range X*.
+Can be used to attack up to range X. Can attack over obstacles, but can't attack within half range.
+
+* *Poison*.
+The target is exposed to poison of the specified type if they suffer at least 1 damage.
+
+* *Range X*.
+Can be used to attack up to range X.
+
+* *Reload*.
+This weapon can only be used only once per combat, since it takes a relative long time to reload it. In the few situations where it matters, a character can spend 10 rounds (1 minute) to reload the weapon.
+
+* *Usage limit*.
+Can only be used with the specified frequency.
+
+* *Stun*.
+Targets are _stunned_.
+
+

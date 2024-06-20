@@ -1,0 +1,53 @@
+// This file was automatically generated.
+
+== Sacred powers
+
+* *Rite of bane*.
+_Near_, _watch_.
+Target an item. It burns demons and undead touching it. If it's a weapon or a shield, it inflicts enhanced damage against them. If it's armour or a shield, demons and undead attacking the wearer and not overcoming their armour value suffer direct damage equal to what they rolled.
+
+* *Rite of blessing*.
+_Near_, _lingering_.
+Target 2 bottles filled with clean, pure water. They are turned into _blessed water_.
+
+* *Rite of courage*.
+_Near_, _watch_.
+Target a character with human intelligence. The target emanates an aura which fills their allies with confidence and calm. The target and all nearby allies are immune to fear and treat terror as fear.
+
+* *Rite of healing*.
+_Near_.
+Target a creature. The target heals damage equal to half their STR.
+
+* *Rite of judgement*.
+_Sight_.
+Target a creature with human intelligence and accuse them of a grave injustice. The target is engulfed by flames: they are reduced to ashes if guilty, but left unharmed if innocent. This power doesn't work with minor accusations of little significance.
+
+* *Rite of martyrdom*.
+_Near_, _watch_.
+Target two creatures. When one of the two targets suffer damage, half of it is suffered by the other target instead.
+
+* *Rite of preservation*.
+_Near_, _lingering_.
+Target a corpse. It can't be affected by sorcerous powers and it decays about 1,000 times more slowly than normal.
+
+* *Rite of protection*.
+_Near_, _watch_.
+Target a character. The target's armour value increases by 1, but only if they don't wear armour. They must show their faith in divine protection! Shields are allowed.
+
+* *Rite of purging*.
+_Near_.
+Target an item which has been tampered with sorcerous magic, a demon, an undead, or a character who has suffered mutations. The target must remain within range for the whole time required to invoke the power. If successful, the target is banished, destroyed, or killed.
+
+* *Rite of purification*.
+_Near_.
+Target a creature. The target heals 1 corruption.
+
+* *Rite of restoration*.
+_Near_.
+Target a creature who is _sick_ or affected by poison. Poison is neutralised, and _sick_ targets gain a success towards recovering.
+
+* *Rite of warding*.
+_Near_, _watch_.
+You erect an anti-magic field covering all zones within range 1 of your current position. Within the area, sorcerous powers have no effect and demons and undead suffer d4 direct damage per round. The field is fixed and doesn't move with you.
+
+

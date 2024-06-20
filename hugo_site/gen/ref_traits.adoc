@@ -1,0 +1,47 @@
+// This file was automatically generated.
+
+== Traits
+
+* *Addicted*.
+Addicted to a specific substance. When this character takes a day rest, they must consume it or temporarily reduce WIT by 1. After a full rest, they must consume 4 units or temporarily reduce WIT by 1 for each missing unit.
+
+* *Fast*.
+Moves at double speed.
+
+* *Frail*.
+Halve carry limit and bulk.
+
+* *Frightening*.
+Causes fear within range 4. Is immune to _frightening_ characters and treat _terrifying_ characters as _frightening_.
+
+* *Hovering flyer*.
+Can fly. Can attack and can stay still while flying.
+
+* *Immobile*.
+Can't move.
+
+* *Incorporeal*.
+Has no STR and AGI score. Can't interact with the material world but is still bound by its laws. Can walk through thin barriers, such as doors.
+
+* *Landing flyer*.
+Can fly. Can't attack and can't stay still while flying.
+
+* *Mutation*.
+Has the listed mutations.
+
+* *Regeneration*.
+Recovers half the amount of lost health each round, at the start of their turn. Fire prevents this.
+
+* *Slow*.
+Moves at half speed.
+
+* *Sturdy*.
+Double carry limit and bulk.
+
+* *Swooping flyer*.
+Can fly. Can attack but can't stay still while flying.
+
+* *Terrifying*.
+Causes terror within range 4. Is immune to _frightening_ and _terrifying_ characters.
+
+

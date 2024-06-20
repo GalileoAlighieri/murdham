@@ -1,0 +1,54 @@
+---
+title: Mounts & Vehicles
+weight: 170
+prev: /docs/character_size
+next: /docs/bestiary
+---
+:toc:
+
+== Mounts
+
+Riding a mount requires a _saddle_.
+Riders must make an AGI save when the mount sprints, does something requiring an AGI save (no matter the outcome), and in other dangerous situations.
+If they fail, they fall from the mount and suffer d4 direct damage.
+
+The main rider and the mount take turn together in combat, moving using the mount's speed but taking separate actions.
+Additional riders take individual turns during which they can take actions but can't move.
+Riders can't act if the mount sprinted this round, and the mount can't sprint if some riders have already acted.
+Mounting or dismounting counts as a main action for both the rider and the mount.
+
+Riders and mounts are targeted separately by attacks.
+Note that if the mount attempts to dodge an attack this triggers an AGI save, requiring all riders to pass an AGI save as well or fall from the saddle.
+
+
+== Carts
+
+Carts must be pulled by one or more characters, typically beasts of burden, and driven by a character.
+
+The driver must make a STR save when the cart sprints and in other dangerous situations.
+If they fail, the cart crashes and topples: the cart itself, those pulling it, the driver, and the passengers all suffer d4 direct damage.
+
+The cart, those pulling it, and the driver take turn together in combat, moving at the slowest speed of those pulling the cart and taking separate actions.
+Other passengers take individual turns.
+The driver and the passengers can't act if the cart has sprinted this round, and the cart can't sprint if the drivers or the passengers have already acted.
+Jumping on or off a moving cart requires passing an AGI save to avoid falling and suffering d4 direct damage.
+
+Carts, those pulling it, the driver, and passengers are targeted separately by attacks.
+Characters pulling a cart can't dodge.
+
+
+== Boats
+
+All boats can be rowed by one or more characters.
+Sailing boats can alternatively be operated by a crew of enough characters with the _boatmanship_ skill.
+One character must act as the driver.
+
+The driver must make a STR save (while rowing) or WIT save (while sailing) in dangerous situation, such as when moving on turbulent waters.
+On a fail the boat topples: the boat itself suffers d4 direct damage and all passengers are thrown into the water.
+
+The boat and the crew act as a single unit in combat, moving at the speed indicated in the profile of the boat and taking separate actions.
+Other passengers take individual turns.
+The crew and the passengers can't act if the boat has sprinted this round, and the boat can't sprint if the crew or the passengers have already acted.
+Jumping on or off a moving boat requires passing an AGI save to avoid falling into the water.
+
+Boats, the crew, and the passengers are targeted separately by attacks.

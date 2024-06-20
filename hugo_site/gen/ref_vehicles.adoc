@@ -1,0 +1,19 @@
+// This file was automatically generated.
+
+== Vehicles
+
+* *Cart* (256ʂ, bulk 32).
+_Durability 12/4_, _vehicle 4_.
+
+* *Coach* (1024ʂ, bulk 64).
+_Durability 16/4_, _vehicle 8_.
+
+* *Rowing boat* (256ʂ, bulk 32).
+_Durability 12/4_, _vehicle 4_.
+Must be rowed. Moves by 1 area per time unit per rowing character, maximum 4.
+
+* *Sailing boat* (1024ʂ, bulk 64).
+_Durability 16/4_, _vehicle 8_.
+Must be operated by a character with the _boatmanship_ skill or rowed. Moves between 1 and 6 areas per time unit with the wind, or by half area per time unit per rowing character if rowed, maximum 4.
+
+

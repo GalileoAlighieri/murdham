@@ -1,0 +1,131 @@
+---
+title: Health & Damage
+weight: 30
+prev: /docs/abilities_and_saves
+next: /docs/corruption_and_mutation
+---
+:toc:
+
+== Health and damage
+
+Characters have maximum health equal to their STR.
+When they suffer damage, they reduce health by an equal amount, at most down to 0.
+
+* Characters who lose half or more of their remaining health (minimum 1) suffer critical damage and take the _incapacitated_ condition until the end of the stretch.
+
+* Characters who lose all their remaining health suffer critical damage and additionally take the _dying_ condition.
+
+* Characters who suffer at once damage matching or exceeding their STR are killed on the spot.
+
+When STR is reduced health must also be reduced by an equal amount, but not below 1.
+Health loss due to STR loss doesn't cause critical damage.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Theobald has STR 9, therefore his maximum health is 9 as well.
+When at full health, he suffers critical damage if he takes 4 or more damage at once.
+If he takes damage and loses health, the amount necessary to trigger critical damage is reduced accordingly.
+For example, once he is reduced to 4 health he would suffer critical damage with just 2 points of damage.
+
+{{% /details %}}
+++++
+
+
+== Rolling for damage
+
+Damage is usually rolled on a d4, d6, d8, d10, or d12.
+If you roll the maximum possible number, you must reroll the same die and add the new result to the previous roll minus 1.
+Keep doing this as long as you keep rolling the maximum.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Balthasar takes d6 damage and rolls a 6, the maximum: he must roll the d6 again and add 5 (6−1).
+He rolls another 6: he must roll the d6 a third time and add 10 (5+5) to it.
+Finally he rolls 3, for a grand total of 13 damage.
+
+{{% /details %}}
+++++
+
+
+== Impaired and enhanced damage
+
+When characters suffer impaired damage, roll twice and keep the lower result.
+Damage which is impaired multiple times is completely ineffective and ignored.
+
+When characters suffer enhanced damage, roll twice and keep the higher result.
+Multiple enhancements at once have no effect.
+
+Factors enhancing and impairing damage at the same time cancel each other out.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Sybilla suffers d6 enhanced damage, therefore she must roll a d6 twice.
+She rolls a 4 and a 6.
+She must re-roll the second die and add 5: she rolls a 3 for a total of 5+3 = 8 damage.
+Since 8 is greater roll, she suffers 8 damage.
+
+Balthasar suffers d8 impaired damage, therefore he must roll a d8 twice.
+He rolls 3 and 7, resulting in only 3 damage.
+
+{{% /details %}}
+++++
+
+
+== Armour value
+
+Armour value reduces incoming damage by a matching amount, even down to 0.
+It is increased by wearing armour and holding shields.
+Direct damage ignores the armour value and is always applied in full.
+
+
+== Stabilising
+
+_Dying_ characters pass away at the end of the next round unless they recover at least 1 health.
+In that case they are stabilised and out of danger, but must roll on the <<tb_injuries>> table and suffer the indicated effect.
+
+.Injuries
+[[tb_injuries]]
+[options='header, unbreakable', cols="^1,<14"]
+|===
+|D6 |Injury
+
+|1 |*Scarred*.
+The wound leaves a permanent mark, but there are otherwise no negative consequences.
+
+|2 |*Painful wound*.
+Your STR is temporarily reduced by d4.
+
+|3 |*Concussion*.
+Your WIT is temporarily reduced by d4.
+
+|4 |*Injured leg*.
+Your AGI is temporarily reduced by d4.
+You suffer from the _hobbled_ condition until you take a full rest.
+
+|5 |*Injured arm*.
+You suffer from the _arm injury_ condition until you take a full rest.
+Roll a d2 to determine which arm is affected: 1) your secondary arm, 2) your primary arm.
+If you get this injury a second time, the other arm is affected.
+If you get it a third time, nothing happens.
+
+|6 |*Blinded eye*
+You suffer from the _eye injury_ condition until you take a full rest.
+If you get this injury a second time, you suffer from the _blind_ condition until you take a full rest.
+If you get it a third time, nothing happens.
+
+|===
+
+
+== Death of the Player characters
+
+Players whose character dies must immediately create a new one, who joins the company as soon as possible under whatever narrative pretext can be devised by the GM.
+If all Player characters are _incapacitated_ at the same time, the GM decides what happens to the company (they might be killed, captured, rescued, robbed, etc.).
+If all Player characters die, the Players lose and must create a brand new company.
+
+Even though a dead Player character is promptly replaced, their death has consequences.
+The other Player characters must pay for their funeral or permanently lose an omen, as described in the link:../omens/#_honour_the_dead[Honour the dead] section.
+The GM may also introduce additional penalties, suitable to the scenario or the campaign.
+For example, he might allow the Players a maximum number of deaths before the scenario or campaign is declared lost for good.

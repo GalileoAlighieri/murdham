@@ -1,0 +1,19 @@
+// This file was automatically generated.
+
+== Armour
+
+* *Helmet* (16ʂ).
+The threshold to suffer critical damage is increased by 1, that is you suffer critical damage when you lose half your health plus 1. You still always suffer critical damage if you are reduced to 0 health, and direct damage ignores this effect.
+
+* *Shield* (64ʂ, bulk 2).
+_Shield_, _weapon (d4 damage)_.
+
+* *Light armour* (256ʂ, bulk 2).
+_Armour 1_.
+Banded mail, chain mail, gambeson, hardened leather, thick furs, etc.
+
+* *Heavy armour* (1024ʂ, bulk 4).
+_Armour 2_.
+Full plate, chain hauberk, etc.
+
+

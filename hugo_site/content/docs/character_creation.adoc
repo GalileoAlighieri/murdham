@@ -1,0 +1,121 @@
+---
+title: Character Creation
+weight: 90
+prev: /docs/assets
+next: /docs/positioning_and_movement
+---
+:toc:
+
+== Creating a character
+
+. Roll on the <<tb_starting_ability_scores>> to determine an array of three scores and assign them randomly to the three abilities.
+Roll a d3 to assign the highest score: 1) STR; 2) AGI; 3) WIT.
+Roll a d2 to assign the middle score to one of the remaining abilities, skipping over the one which was already assigned.
+Finally assign the lowest score to the last remaining ability.
+
+. Determine your background by rolling on the <<tb_backgrounds>> table.
+Read about it in the link:../backgrounds[Backgrounds] section.
+Reroll if you get the same background as another Player.
+
+. A few backgrounds increase two abilities by 1.
+Adjust their scores if that's the case.
+
+. You start with one or two skills granted by your background.
+You can read what they do in the link:../skills[Skills] section.
+
+. You start with health equal to your STR, 0 corruption, and 2 omens.
+You also start with 0 mana unless your background is _wizard_, in which case you start with 1 mana.
+What these values mean is described later in the book.
+
+. You start with d8ʂ, the assets granted by your background, and the items and money you get by rolling once on each of the <<tb_starting_weapons>> and <<tb_starting_items>> tables.
+Reroll if you get the same result as another Player on these tables.
+You also share a single _candle_ and _flint & tinder_ with the other Player characters.
+If you start with a _power scroll_ without a specified power, roll for it on the <<tb_sorcerous_powers>> or <<tb_sacred_powers>> tables.
+You can read what your assets and powers do in the link:../assets[Assets] and link:../powers[Powers] section.
+
+. Portray your character using words, drawings, or a combination of the two, as you prefer.
+You can roll on the <<tb_appearance>>, <<tb_personality>>, and <<tb_reason_to_adventure>> tables if you need inspiration.
+
+. Pick a suitable name, or roll on the <<tb_masculine_names>>, <<tb_feminine_names>>, and <<tb_last_names>> table to generate it randomly.
+
+After all characters have been created, describe how they know each other.
+You can roll on the <<tb_relationships>> table if you need inspiration.
+You don't have to do this for every possible pair of characters, but you should make sure that everyone is connected.
+You can go around the table and define a connection for each couple of Players sitting next to each other, excluding the last couple.
+
+include::gen/tb_starting_ability_scores.adoc[]
+
+include::gen/tb_backgrounds.adoc[]
+
+include::gen/tb_starting_weapons.adoc[]
+
+include::gen/tb_starting_items.adoc[]
+
+include::gen/tb_sacred_powers.adoc[]
+
+include::gen/tb_sorcerous_powers.adoc[]
+
+include::gen/tb_appearance.adoc[]
+
+include::gen/tb_personality.adoc[]
+
+include::gen/tb_reason_to_adventure.adoc[]
+
+include::gen/tb_masculine_names.adoc[]
+
+include::gen/tb_feminine_names.adoc[]
+
+include::gen/tb_last_names.adoc[]
+
+include::gen/tb_relationships.adoc[]
+
+
+== Character advancement
+
+During a campaign, you might be granted an advancement by the GM after you and the other Players achieve significant progress.
+
+At odd advancements (1st, 3rd, 5th, etc.) you permanently increase your abilities by a total of 2 points, but no ability can exceed 15.
+At even advancements (2nd, 4th, 6th, etc.) you gain a new skill of your choice, but you must be able to reasonably explain how you have learnt it (a mentor, past experiences, etc.).
+
+After 10 advancements you have reached the pinnacle of your potential and don't gain these benefits any longer.
+Instead, if you advance again, you may either replace a skill or redistribute 2 points among your abilities.
+
+
+== Granting advancements
+
+The GM decides when the Player characters advance depending on how they are managing the campaign.
+
+* *Scenarios*.
+Grant a new advancement upon reaching the goals of a scenario, or of a few scenarios if you want to slow things down.
+This method is well suited for episodic campaigns made of a sequence of distinct scenarios.
+
+* *Milestones*.
+Grant a new advancement upon completing a significant task or reaching a milestone in the campaign.
+This method is well suited for sandbox campaigns where the separation between scenarios is not clear cut.
+
+* *Experience for money*.
+The Player characters earn experience points by spending money, at a rate of one experience point per shilling, and advance after gathering specific amounts of experience points.
+Money spent in this way is lost and can't be retrieved in any way: it is stashed away for retirement, wasted carousing, donated to a good cause, etc.
+The <<tb_experience_and_advancements>> table shows the amount of experience point required to reach certain advancements, but feel free to modify it based on your requirements.
+This method is well suited for campaigns where the main goal is gathering treasure.
+
+.Experience and advancements
+[[tb_experience_and_advancements]]
+[options='header, unbreakable', cols="^2,^4,^2,^4"]
+|===
+|Advancement |Experience required
+|Advancement |Experience required
+|1   |200
+|2   |400
+|3   |800
+|4   |1,600
+|5   |3,200
+|6   |6,400
+|7   |12,500
+|8   |25,000
+|9   |50,000
+|10  |100,000
+|11+  3+|Add 50,000
+|===
+
+include::gen/ref_backgrounds.adoc[]
