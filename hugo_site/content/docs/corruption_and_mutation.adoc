@@ -51,7 +51,7 @@ He rolls 11 on a d12 and 20 on a d20: the result is "Uncanny resemblance".
 
 .Mutations
 [[tb_mutations]]
-[options='header, unbreakable', cols="^1,^1,<13"]
+[options='header, unbreakable', cols="^1,^1,<8"]
 |===
 |D12 |D20 |Mutation
 

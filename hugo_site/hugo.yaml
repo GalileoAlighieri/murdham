@@ -2,6 +2,8 @@ baseURL: https://galileoalighieri.github.io/murdham/
 languageCode: en-uk
 title: Murdham
 
+timeout: 240
+
 enableInlineShortcodes: true
 
 security:
@@ -62,13 +64,18 @@ menu:
       pageRef: /docs
     - name: Resources
       weight: 2
-      pageRef: /resources
+      pageRef: /res
     - name: Search
       weight: 3
       params:
         type: search
-    - name: GitHub
+    - name: Discord
       weight: 4
+      url: https://discord.gg/TcSSPBYD
+      params:
+        icon: discord
+    - name: GitHub
+      weight: 5
       url: https://github.com/GalileoAlighieri/murdham
       params:
         icon: github
