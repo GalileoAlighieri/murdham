@@ -1,0 +1,165 @@
+---
+title: Powers
+weight: 150
+prev: /docs/combat
+next: /docs/character_size
+---
+:toc:
+
+== Invoking powers
+
+The _religion_ and _sorcery_ skills grant the ability to invoke sacred and sorcerous powers, respectively.
+The invoker must hold a _power scroll_ recording the power in hand and read it out loud.
+
+Invoking a sacred power takes a full stretch, after which the invoker rolls a d12: the power works if the result exceeds their current corruption, otherwise nothing happens.
+Characters can only make a single attempt at invoking sacred powers per watch.
+
+Invoking a sorcerous power only takes 1 action, and the invoker must either spend 1 mana or suffer 2 corruption.
+Sorcerers can increase their mana when they advance, at most up to 6, instead of taking a normal advancement.
+Mana is recovered to the maximum on day rests and full rests.
+
+_Power scrolls_ are more than mundane pieces of parchment recording incantations: they are artifacts holding ancient and powerful magic.
+For this reason, powers must always be read from a scroll to be effective, memorising the incantations isn't enough.
+Likewise, simply writing the incantations on parchment doesn't create a _power scroll_, and the knowledge on how to craft them has been forgotten.
+
+
+== Power range
+
+* *Personal*.
+The power exclusively affects the invoker.
+
+* *Near*.
+Targets must be nearby the invoker.
+
+* *Sight*.
+Targets must be visible and within range 8 of the invoker.
+
+* *Connection*.
+Targets can be anywhere as long as the invoker has an arcane connection to them.
+An arcane connection is formed through an object which is closely related to the target (a lock of hair, a personal possession, etc), which is destroyed after invoking the power.
+
+Powers can always be cast at a worse range: for example, a power with _connection_ range can be cast with _sight_ range, and all powers can be cast with _personal_ range.
+
+
+== Power duration
+
+* *Stretch*.
+The power lasts until the end of the stretch.
+
+* *Watch*.
+The power lasts until the end of the watch.
+
+* *Lingering*.
+The power lasts indefinitely.
+
+The invoker may choose a trigger which can end the power prematurely upon casting it (a word, a gesture, etc.).
+Some powers might also end prematurely based on particular conditions.
+
+
+== Reacting to powers
+
+A target of an sorcerous power can react by countering the invoker as if it were an attack.
+If the power doesn't inflict damage, it is handled as a non-lethal attack, otherwise it is handled as a normal attack.
+It isn't possible to dodge a power unless otherwise specified.
+
+Sorcerous powers can also be invoked as a counter to an attack if they can target the attacker.
+
+Sacred powers take a full stretch to invoke, so they can't be used to react or reacted to.
+
+
+== Sorcerous power level
+
+Sorcerous powers are invoked at a certain level, at most equal to the invoker's current mana (before spending it to invoke the power).
+Invokers can increase the maximum level by 1 either by suffering 2 corruption or by spending a whole stretch to invoke the power.
+
+Powers invoked as described by the rules have level 0.
+All powers can be enhanced as listed below, when it makes sense, by increasing their level.
+Many powers can be enhanced in other specific ways, as detailed in their description.
+The same enhancement can be applied multiple times.
+
+* Level+1 -- Target a small zone, affecting all valid targets within it or on its borders.
+
+* Level+1 -- Double the number of targets or targeted zones.
+
+* Level+1 -- Improve range by one category.
+
+* Level+2 -- Improve duration by one category.
+
+* Level+1 -- Invoke the power silently, without pronouncing incantations.
+
+Sacred powers don't have a level and can't be enhanced: they always work the same way.
+
+
+== Dispelling
+
+Ongoing sorcerous powers can be dispelled by casting the exact same power on the same target.
+The base level of a power invoked to dispel another power depends on the duration of the dispelled power: 0 if _stretch_, 2 if _watch_, 4 if _lingering_.
+
+
+== Magic corruption and miscasts
+
+It is possible to invoke a sorcerous power without spending mana or at 1 level higher than allowed by suffering 2 corruption.
+If both conditions hold true, you suffer 4 corruption and only check for soulblight once.
+
+Corruption is inflicted before the power takes effect and before targets declare if they react.
+Characters who suffer soulblight apply the normal effects.
+If they are killed or _incapacitated_ the power has no effect, otherwise the power works but they must roll on the <<tb_miscast>> table.
+
+.Miscast
+[[tb_miscast]]
+[options='header, unbreakable', cols="^1,<14"]
+|===
+|D12 |Miscast
+
+|1 |
+The power doesn't work.
+
+|2 |
+A minor eldritch event happens around the invoker: plants wither, blood rains from the sky, the air becomes unnaturally cold, etc.
+This might spook other people but otherwise has no significant consequences.
+
+|3 |
+Thick magical darkness shrouds all zones within range 1 of the invoker until the end of the watch.
+It's impossible to see through it and light cannot penetrate it in any way.
+
+|4 |
+The _power scroll_ you have used crumbles to dust.
+
+|5 |
+The floor, walls, and air around the invoker twirl and change in chaotic patterns.
+All other characters within range 1 of the invoker suffer 2 corruption.
+
+|6 |
+Black flames burst from the invoker.
+All other characters within range 1 of the invoker suffer d6 fire damage.
+They can attempt to dodge.
+
+|7 |
+The power hits the wrong targets, in a way which is disadvantageous for the invoker.
+Reroll if this doesn't make sense.
+
+|8 |
+The power has an alternative effect which is disadvantageous for the invoker, typically the exact opposite of what it was intended to do.
+Reroll if this doesn't make sense.
+
+|9 |
+The invoker and all creatures within range 1 are exposed to the '`demon pox`' disease.
+
+|10 |
+The invoker suffers a random mutation (roll on the <<tb_mutations>> table).
+
+|11 |
+A demon enters the world nearby the invoker.
+The demon isn't necessarily hostile to the invoker but its presence is for sure bad news, now or later.
+
+|12 |
+The invoker is possessed by a demonic entity.
+The GM makes a secret d12 roll for them at the start of each day.
+If they roll equal or lower than their corruption, the GM can take control of the character for a whole stretch during the day, making them do the demon's bidding.
+Characters who are possessed a second time succumb to the power of the demon, who takes full control of their body.
+
+|===
+
+include::gen/ref_sacred_powers.adoc[]
+
+include::gen/ref_sorcerous_powers.adoc[]

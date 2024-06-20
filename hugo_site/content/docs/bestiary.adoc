@@ -1,0 +1,74 @@
+---
+title: Bestiary
+weight: 180
+prev: /docs/mounts_and_vehicles
+---
+:toc:
+
+== Folks
+
+Other humanoid kins inhabit the world besides humans.
+They form their own communities and are a rare sight within the Kingdom, but not impossible to encounter especially for seasoned travellers.
+
+The profiles show the average ability scores, which can vary just like for human characters.
+The minimum score is the given one minus 3 (minimum 1), and the maximum score is the given one plus 7 (maximum 19).
+No skills or assets are shown, as those depend on the character's occupation.
+
+include::gen/ref_folks.adoc[]
+
+
+== Reanimated corpses
+
+Dead bodies dragged back to life by vile sorcery.
+A reanimated corpse obeys the sorcerer who created it, without question.
+It can carry out simple and repetitive tasks, such as guarding an area, patrolling, transporting goods, etc.
+
+You can build the profile of a reanimated corpse starting from any creature using these rules:
+
+* STR matches the original creature, AGI is halved, and WIT equals 2.
+
+* Character category changes to _undead_.
+
+* Intelligence category changes to _mindless_.
+Humanoid reanimated corpses can still hold and use items.
+
+* Size category matches the original creature.
+
+* Skills are lost.
+
+* Traits match the original creature, plus the addition of _frightening_ (or _terrifying_ if already _frightening_).
+
+include::gen/ref_reanimated_corpses.adoc[]
+
+
+== Demons
+
+Demons are the product of pure chaos, denizens of an alternate dimension.
+Each one is different and unique in its own way, and can never truly be destroyed.
+This section provides a few examples, but feel free to make up your own!
+
+include::gen/ref_demons.adoc[]
+
+
+== Monsters
+
+Mighty and ferocious creatures of legend.
+Few survive to tell the tale of an encounter with such forces of nature!
+
+include::gen/ref_monsters.adoc[]
+
+
+== Domesticated animals
+
+Animals which have been bred and selected to work with humans.
+They are typically docile and obedient, even though individual animals which have received no training might still be aggressive or distrustful.
+
+include::gen/ref_domesticated_animals.adoc[]
+
+
+== Wild animals
+
+Animals found in the wild.
+They can only act as followers if first tamed by someone with the right skills.
+
+include::gen/ref_wild_animals.adoc[]

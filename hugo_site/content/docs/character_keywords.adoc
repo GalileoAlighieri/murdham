@@ -1,0 +1,69 @@
+---
+title: Character Keywords
+weight: 70
+prev: /docs/rest_and_recovery
+next: /docs/assets
+---
+:toc:
+
+== Types of keyword
+
+Keywords define common advantages or disadvantages that characters might have.
+Most of this chapter lists and describes the most common keywords.
+You don't have to read through and memorise them, but you can use this chapter as a reference while playing.
+Also feel free to make up new keywords if need them in your games!
+
+* *Character category*.
+The character's basic nature: _creature_, _construct_, _demon_, or _undead_.
+Humans are _creatures_.
+
+* *Intelligence category*.
+The character's level of intelligence: _human_, _animal_, or _mindless_.
+Humans have _human intelligence_.
+
+* *Size category*.
+How large the character is: _tiny_, _small_, _medium-sized_, _large_, _massive_.
+Humans are _medium-sized_.
+
+* *Skills*.
+Learnt abilities which are always beneficial.
+
+* *Traits*.
+Characteristic which are either innate or acquired in ways other than training and learning.
+
+* *Conditions*.
+Temporary alterations of the character's state.
+
+
+== Using keywords
+
+You should take keywords into account any time it makes sense within the game narrative, providing advantages or disadvantages according to the GM's judgement.
+The description of each keyword in this chapter provides a list of the most common ways they can influence the game, but don't feel limited by this.
+
+Concerning skills, one common effect is to allow characters to perform normally risky actions without a save, or to perform actions which would normally be impossible with a save.
+A clear example of this is the _climbing_ skill.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Sybilla (AGI 10) and Beatrice (AGI 8) want to climb a rocky cliff, which requires passing an AGI save.
+Beatrice, however, has the _climbing_ skill, which means she is very good at climbing.
+The GM rules that she succeeds automatically, without needing to roll.
+Sybilla doesn't have the skill, so she must make a save.
+
+Later they find themselves in a similar situation, but a torrential rain starts pouring, making the surface slippery.
+The GM rules that it's practically impossible for most people to climb safely.
+Since Beatrice has the _climbing_ skill, however, the GM allows her to attempt to do it with an AGI save.
+Once she is on top, she rolls out a _rope ladder_ she had in her backpack to let Beatrice up.
+The GM rules that climbing the ladder is trivial, even despite the rain, so Beatrice can just climb up without risks.
+
+{{% /details %}}
+++++
+
+include::gen/ref_character_categories.adoc[]
+
+include::gen/ref_skills.adoc[]
+
+include::gen/ref_traits.adoc[]
+
+include::gen/ref_conditions.adoc[]

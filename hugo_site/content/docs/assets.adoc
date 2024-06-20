@@ -1,0 +1,154 @@
+---
+title: Assets
+weight: 80
+prev: /docs/character_keywords
+next: /docs/character_creation
+---
+:toc:
+
+== Types of asset
+
+* *Money*.
+Measured in shillings (ʂ).
+You should track money down to a quarter shilling.
+
+* *Items*.
+Weapons, armour, torches, food, tools, vehicles, and other useful stuff.
+Just like skills, in addition to the uses described in their profile, items can be used in any situation where it makes sense, as adjudicated by the GM.
+For example, a _rope_ could be used to make a climb safer and easier.
+
+* *Followers*.
+Characters controlled by the GM who accompany and aid the Player characters in their adventures.
+
+
+== Encumbrance
+
+Characters can carry up to 8 bulk unencumbered, and up to twice that _encumbered_.
+Size and traits can change these limits.
+_Encumbered_ characters move at half speed and must also pass a STR save each time they pass an AGI save or suffer the effects of failure.
+
+* An item's bulk equals 1, unless otherwise indicated in its description.
+
+* A character's bulk equals how much they can carry unencumbered: 8 for most characters but potentially altered by size and traits.
+
+* Groups of 64ʂ have bulk equal to ½.
+63 or fewer shillings can be carried freely.
+
+
+== Storage
+
+Characters must have a reasonable way to store what they are carrying.
+They can wear whatever makes sense and, if they wear some _clothes_, they are assumed to have enough containers (backpacks, pouches, pockets, scabbards, etc.) to store any amount of reasonably sized items.
+Things with bulk higher than 2 (ladders, chests, other characters, etc.) can't be stored and require dedicated effort to carry.
+
+
+== Durability rolls
+
+You must make a durability roll when an item has been used in a way which might have compromised its integrity.
+There is an 1:4 chance that the affected item was _damaged_.
+You should only make durability rolls when it isn't sure if the object was damaged or destroyed, otherwise just apply the effect directly.
+
+After a fight, make a durability roll for all weapons and armour which were used at least once.
+Other situations which might require a durability roll are using a weapon to try to break down a door, or a fragile item falling to the ground.
+
+_Damaged_ items can still be used but are permanently destroyed on another failed durability roll.
+_Damaged_ weapons and shields are also destroyed if they are used to attack and a 1 is rolled on the damage die.
+_Damaged_ shields and armour are also destroyed by attacks inflicting at least 8 damage before armour reduction (shields are destroyed first).
+
+Many items can be used as improvised weapons.
+They work as a _simple hand weapon_ or a _simple great weapon_, but are handled as if they were already _damaged_.
+
+
+== Controlling followers
+
+Characters with human intelligence act as retainers, joining the party due to common interests or in exchange for payment.
+They pretty much behave like Player characters, but they might refuse to perform specific tasks unless they were agreed as part of their responsibilities.
+
+Characters with animal intelligence behave according to their nature.
+If trained, they might be able to obey simple orders and perform specific tasks, such as carrying a rider, pulling carts, following trails, performing tricks, etc.
+Animals will avoid combat and other dangerous situations unless they are predators or have been trained to fight.
+
+In game terms, the Players control their followers as their own character, assuming they are giving them orders, but the GM ultimately decides if and how they do what they are asked.
+Followers will always refuse to do something clearly harmful to themselves.
+In situations where their loyalty is put into question, the character who is leading them must pass a WIT save to keep their allegiance.
+
+include::gen/ref_item_keywords.adoc[]
+
+include::gen/ref_weapon_keywords.adoc[]
+
+include::gen/ref_weapons.adoc[]
+
+include::gen/ref_armour.adoc[]
+
+include::gen/ref_gear.adoc[]
+
+include::gen/ref_artillery.adoc[]
+
+include::gen/ref_vehicles.adoc[]
+
+include::gen/ref_item_modifiers.adoc[]
+
+
+== Followers
+
+* *Animal* (*).
+Check the link:../bestiary[Bestiary] section for profiles and values in shillings.
+Wild animals cost double if trained to obey and follow commands.
+Docile animals cost double if trained to fight.
+Animals trained for hunting cost double and grant an additional _ration_ while foraging.
+Animals trained to perform tricks (jumping through hoops, balancing stuff on the nose, etc.) cost double.
+
+* *Labourer* (16ʂ).
+Hired for a day to carry stuff and perform menial labour.
+Won't fight or provide other services.
+
+* *Expert* (32ʂ).
+Hired for a day to provide some form of expertise (guide, knowledge, healing, etc.)
+Won't fight, carry stuff, or perform menial labour.
+
+* *Mercenary* (64ʂ).
+Hired for a day to fight.
+Won't carry stuff, perform menial labour, or provide services other than fighting.
+
+
+== Services
+
+* *Bank deposit* (*).
+Deposit money in a bank by paying ¼ of the deposited sum.
+You can withdraw deposited money for free, even from other banks.
+
+* *Courier* (*).
+Delivers a message to a recipient.
+The cost is 1ʂ plus 1ʂ per region of distance.
+The cost might be higher through dangerous areas.
+
+* *Funeral* (512ʂ).
+A funeral for a dead Player character.
+Costs half if the body was recovered.
+
+* *Healing* (16ʂ).
+Recover health equal to half STR.
+
+* *Item storage* (*).
+Safely store items by paying ¼ of their value.
+You can take them back for free.
+
+* *Loan* (*).
+Borrow a sum of money, but you must pay back twice as much.
+Debts left behind by dead Player characters are transferred onto the other Player characters.
+If debts aren't repaid in a timely fashion, new loans might be refused and the character might be harassed by debt collectors.
+
+* *Lodging, day rest* (4ʂ).
+Provides a place to sleep, food, and water during a day rest.
+
+* *Lodging, full rest* (64ʂ).
+Provides a place to sleep, food, and water during a full rest.
+
+* *Repair* (*).
+Repair a damaged item by paying ¼ of its value.
+Items with the _durability_ keyword recover 2 health per watch.
+
+* *Transportation* (*).
+Transportation via stagecoach, boat, or ship a specific destination for a person.
+It costs 4ʂ plus 4ʂ per region of distance.
+The cost might be higher through dangerous areas.

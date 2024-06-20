@@ -1,0 +1,17 @@
+// This file was automatically generated.
+
+== Character categories
+
+* *Creature*.
+A living creature, such as a human or an animal.
+
+* *Construct*.
+An artificial being animated by magic or technology. Doesn't need to eat, drink, sleep, or breathe. Immune to poison, disease, fear, terror, and corruption. Doesn't heal naturally, but must be repaired like an item. Can't be _incapacitated_. Upon suffering critical damage it is damaged, like an item, and is disabled until repaired.
+
+* *Demon*.
+A dark being of pure chaos manifested in the material world. Doesn't need to eat, drink, sleep, or breathe. Immune to poison, disease, fear, and terror. Can't be _incapacitated_. If defeated, it doesn't die but is simply banished back from where it came from.
+
+* *Undead*.
+A being which is neither alive nor dead. Doesn't need to eat, drink, sleep, or breathe. Immune to poison, disease, fear, and terror. Can't be _incapacitated_.
+
+

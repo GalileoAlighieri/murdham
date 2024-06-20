@@ -1,0 +1,119 @@
+---
+title: Encounters
+weight: 130
+prev: /docs/hazards
+next: /docs/combat
+---
+:toc:
+
+== Detection
+
+When two groups encounter each other they must each make a group WIT save.
+If at least one member passes, they notice the other group.
+
+Groups which are being reckless (making noise, talking loudly, carrying a light in the dark, etc.) are automatically detected and can't detect the other group unless they are being reckless as well.
+Groups which are well hidden and silent can't be detected by a WIT save, only by a search, and automatically detect even cautious groups.
+
+If only one group notices the other, it has the opportunity to decide how to approach the encounter: leaving, sneaking, launching an ambush, attempting to parley, etc.
+If both or neither group notices the other, the two sides stumble upon each other and the encounter can't be avoided.
+
+
+== Attitude
+
+The GM can use the following levels to express the attitude that other characters have towards the Player characters:
+
+* *Hostile* characters actively try to harm the Player characters.
+
+* *Unfriendly* characters refuse to cooperate with the Player characters, but won't go out of their way to harm them.
+
+* *Neutral* characters just do what's best for them.
+They are open to mutually beneficial deals.
+
+* *Friendly* characters are open to help and do favours.
+They will still expect to get something back at some point.
+
+* *Infatuated* characters will be extremely friendly to the Player characters, often doing favours in exchange for little or nothing.
+They still won't do something which will harm them, and if they start feeling they are taken advantage of their attitude might worsen.
+
+
+
+== Diplomacy
+
+Characters who try to use diplomacy on others must pass a WIT save to determine if they are charismatic enough to succeed.
+The following are typical diplomacy attempts:
+
+* *Befriending*.
+Perform a friendly activity (do a favour, give a present, buy some drinks, etc.) and pass a WIT save to improve a character's attitude towards you.
+In case a big favour is made the save is not required.
+
+* *Inspiring*.
+Appeal to someone's emotions or provide them with incentives (payments, favours, etc.) and pass a WIT save to convince them to do something.
+If the inspiration attempt is particularly effective or the incentives are very generous, the save is not required.
+
+* *Persuading*.
+Provide convincing arguments and pass a WIT save to persuade a character of something they aren't inclined to believe, no matter if the truth or a lie.
+If the arguments are particularly solid and supported by evidence the save is not required.
+
+
+== Manipulating
+
+Characters who are being manipulated must pass a WIT save to determine if they are wilful enough to resist.
+The following are typical manipulation attempts:
+
+* *Distracting*.
+Perform a distracting activity (play music, start a conversation, make noise, etc.) to distract a character from something else.
+The target can figure out they are being distracted with a WIT save unless the attempt is particularly effective.
+Distracting someone in combat is a main action, and if successful the target loses their next turn.
+
+* *Intimidating*.
+Use threats and leverage to force a character to do or say something.
+The target can attempt to resist by passing a WIT save unless it is quite evident that you are capable and willing to act on your threats and that they would have no chance to oppose you.
+Intimidating someone in combat is a main action, and if successful the target is _frightened_ by you.
+
+* *Taunting*.
+Use insults and provocations and pass a WIT save to manipulate a character into acting aggressively and impulsively.
+The target can attempt to resist by passing a WIT save unless your taunts are really pulling the right strings.
+Taunting someone in combat is a main action, and if successful the target can only spend their next turn trying to harm you.
+
+* *Torturing*.
+Torturing an imprisoned character takes a stretch of time and inflicts d6 direct damage.
+The target, if still alive and conscious, must pass a WIT save or give up and talk.
+
+
+== Playing games
+
+A game is resolved as an ability contest, usually WIT or AGI.
+Luck-based games are resolved with a d20 roll, with the winner being whoever rolls lowest.
+
+Cheating requires declaring how the attempt is made and passing a WIT save to avoid detection.
+The GM should roll the d20 secretly for their characters to avoid giving away if they are cheating: if they play honestly it is their contest roll, if they are cheating it is their WIT save to avoid detection.
+
+
+== Stealing
+
+Stealing an item with bulk ½ from a nearby character requires passing an AGI save to avoid detection.
+Stealing larger items is normally impossible.
+Approaching the target without being noticed might require an additional AGI save to sneak without being detected.
+
+
+== Trading
+
+Goods can be purchased in exchange of something of at least equal value.
+The value of items is indicated on their profile.
+The value of less tangible assets, such as favours and peculiar services, must be adjudicated by the GM.
+
+* Professional merchants want to make a profit and will only buy at half value.
+
+* Second hand items, such as most gear owned or looted by the Player characters, are worth half.
+
+* Damaged items are worth nothing.
+
+* Goods in high demand are worth double or quadruple, while those in low demand are worth half or a quarter.
+
+* Illegal goods are sold at one quarter of their value and bought at four times their value, and not everyone will be willing to trade at all.
+
+
+== Gathering rumours
+
+Player characters can spend a watch in a settlement to talk with the locals and hear interesting rumours.
+The GM decides what they hear, and it might not necessarily be true.

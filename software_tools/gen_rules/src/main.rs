@@ -90,7 +90,7 @@ fn gen_reference<T: AsciiDoc>(dir: &PathBuf, title: &str, v: &[T]) -> std::io::R
 
     writeln!(&mut file, "{HEADER}")?;
 
-    write_list_section(&mut file, Some(title), v, 3)?;
+    write_list_section(&mut file, Some(title), v, 2)?;
 
     Ok(())
 }

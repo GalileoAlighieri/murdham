@@ -1,0 +1,29 @@
+// This file was automatically generated.
+
+== Item keywords
+
+* *Armour X*.
+Increases armour value by X while worn. Characters can only wear one suit of armour. Equipping or unequipping armour takes a stretch. Armour is fitted to a specific character, and only those of similar size are able to wear it. When in doubt, there is a 1:8 chance it is possible.
+
+* *Consumable*.
+Discarded after use.
+
+* *Durability X/Y*.
+This item has health equal to X and armour value equal to Y, and suffers damage like characters instead of using durability rolls. On critical damage, it is _damaged_ and can't be used until it recovers at least 1 health. Items can't heal like characters, but can be repaired. Sources of damage which can't realistically damage the items are completely ineffective (such as a sword against a metal door).
+
+* *Fragile*.
+Behaves as an already _damaged_ item: it is destroyed on a failed durability roll, weapons are destroyed on a roll of 1, shields and armour are destroyed upon taking 8 or more damage.
+
+* *Robust*.
+Only has a 1:8 chance of failing durability rolls.
+
+* *Shield*.
+Increases the armour value by 1 while held but only against attacks you dodge, attacks you counter, and attacks used to counter you. If you hold two shields at once you still only increase armour value by 1, but against all attacks. Doesn't require two hands to use despite its bulk.
+
+* *Vehicle X*.
+Can carry X medium-sized characters and their gear. A character can be replaced by items with a total bulk of 16. The bulk of what's on the vehicle doesn't count towards the encumbrance of characters or operating it.
+
+* *Weapon*.
+Can be used to perform an attack while held, with the indicated damage and properties. Attacks made with one-handed weapons held in the non-dominant hand inflict impaired damage. Weapons of bulk 2 or more require both hands to use and can't be used to attack characters you are grabbing. You don't need to track ammunition for ranged weapons, it is assumed you are carrying enough and that durability rolls also account for it.
+
+

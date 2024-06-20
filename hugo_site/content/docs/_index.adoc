@@ -1,0 +1,51 @@
+---
+title: Murdham Rulebook
+next: /docs/basic_concepts
+---
+:toc:
+
+A role-playing game of perilous adventures in a fantasy world, combining the atmosphere of old school British role-playing games with light and streamlined rules.
+
+<!--more-->
+
+== Overview
+
+_Murdham_ is a role-playing game of perilous adventures for 2 to 6 people.
+One person acts as the Game Master (GM) and is responsible for running the game.
+Everyone else is a Player, interpreting a member of a company of adventurers on a quest for gold and fame.
+
+The game takes place in a fantasy world loosely based on late medieval Europe.
+The protagonists are not powerful heroes but common folks and roguish adventurers facing untold perils in the slim hope of getting rich.
+Magic, gods, and demons are real and dangerous, promising great power but at a terrible cost.
+Monsters, mutants, and other vile creatures roam the wilderness, while cities are home to crime and intrigue.
+
+
+== Required materials
+
+Everyone at the table needs paper, pencil, rubber, and a set of polyhedral dice including a 4‑sided die, a 6‑sided die, an 8‑sided die, a 10‑sided die, a 12‑sided die, and a 20‑sided die.
+
+The game doesn't use an actual board or tokens.
+All game information is instead written or drawn on paper.
+This includes details about the characters, maps, positioning during combat, etc.
+
+You can enhance your experience with additional components (character sheets, reference sheets, handouts, grids, miniatures, tokens, etc.) or even play online using digital tools.
+All of this is optional and a matter of personal preference.
+
+
+== Inspiration
+
+* _Into the Odd_ and _Electric Bastionland_, by Chris McDowall.
+
+* _Cairn_, by Yochai Gal.
+
+* _Knave_, by Ben Milton.
+
+* _Mausritter_, by Isaac Williams.
+
+* _Mörk Borg_, by Pelle Nilsson and Johan Nohr.
+
+* _Ten Dead Rats_, by Paul Siegel.
+
+* _Warlock!_, by Greg Saunders.
+
+* Old school British tabletop role-playing games.

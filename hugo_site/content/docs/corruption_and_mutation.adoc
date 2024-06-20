@@ -1,0 +1,315 @@
+---
+title: Corruption & Mutation
+weight: 40
+prev: /docs/health_and_damage
+next: /docs/omens
+---
+:toc:
+
+== Corruption
+
+Corruption represents spiritual taint and is caused by the use of magic or the proximity of strong otherworldly powers.
+It is initially 0, but can slowly accumulate and it is hard to get rid of.
+
+
+== Soulblight
+
+Characters must roll a d12 each time they suffer corruption.
+If they roll lower or equal than their current corruption, they suffer soulblight.
+Characters who suffer soulblight take direct damage equal to the rolled number, then corruption is also reduced by the same amount.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Balthasar starts with 0 corruption and suffers 2 corruption.
+He rolls 5 on a d12, meaning that nothing else happens.
+
+He later suffers 3 corruption, bringing the total to 5.
+This time he rolls a 1 on a d12, meaning he suffer soulblight.
+He takes 1 point of direct damage and his corruption is reduced to 4.
+
+{{% /details %}}
+++++
+
+
+== Mutations
+
+Characters who suffer critical damage due to soulblight also develop a permanent mutation determined by rolling on the <<tb_mutations>> table.
+The GM can pick a mutation instead of rolling, if something fits the current circumstances particularly well.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Balthasar has 4 remaining health and suffers 1 corruption again, bringing the total to 5.
+He rolls a 3 on a d12: soulblight!
+His corruption is reduced to 2 but he suffers 3 damage: enough to inflict critical damage!
+Not only he is _incapacitated_, but he must also roll on the <<tb_mutations>> table.
+He rolls 11 on a d12 and 20 on a d20: the result is "Uncanny resemblance".
+
+{{% /details %}}
+++++
+
+.Mutations
+[[tb_mutations]]
+[options='header, unbreakable', cols="^1,^1,<13"]
+|===
+|D12 |D20 |Mutation
+
+.10+h|1-3
+
+h|1-2 <|
+*Personality change*.
+Your personality changes for the worst.
+D6: 1) irascible; 2) apathetic; 3) sad; 4) proud; 5) mean; 6) pessimistic.
+
+h|3-4 <|
+*Addiction*.
+You gain the _addicted_ trait.
+Roll a d6 for what you are addicted to: 1) _alcoholic drink_; 2) _darkroot_; 3) _pipe & tobacco_; 4) _madcap mushrooms_; 5) _crimson weed_; 6) _corpse mandrake_.
+
+h|5-6 <|
+*Unnatural appetite*.
+You develop an unnatural appetite: you must satisfy it instead of eating normal food or drinking water.
+D6: 1) drink blood; 2) drink tears; 3) drink quicksilver; 4) eat mud; 5) eat human flesh; 6) eat maggots.
+
+h|7-8 <|
+*Disgusting habit*.
+You develop an annoying or disgusting habit.
+D6: 1) eat your hair; 2) scratch your butt; 3) fart; 4) pick your nose; 5) spit; 6) belch loudly.
+
+h|9-10 <|
+*Compulsion*.
+You develop an irresistible desire to do something: when tempted, you must pass a WIT save to resist.
+D6: 1) make things burn; 2) destroy beautiful things; 3) keep your stuff perfectly clean; 4) insult figures of authority; 5) buy unnecessarily expensive things; 6) steal.
+
+h|11-12 <|
+*Revulsion*.
+You must pass a WIT save to force yourself to approach or touch the source of your revulsion.
+D6: 1) metal; 2) animals; 3) people; 4) mushrooms; 5) water; 6) dirt.
+
+h|13-14 <|
+*Irrational phobia*.
+You are afraid of something irrational.
+D6: 1) rodents; 2) salt water; 3) religious paraphernalia; 4) a particular colour; 5) insects; 6) wizards.
+
+h|15-16 <|
+*Irrational hatred*.
+You must pass a WIT save to keep yourself from acting aggressively against the target of your hatred.
+D6: 1) a specific group of people; 2) users of sorcerous powers; 3) users of sacred powers; 4) demons; 5) undead; 6) animals.
+
+h|17-18 <|
+*Uncontrollable bloodlust*.
+When blood is spilt nearby you, you must pass a WIT save or become _frenzied_ until the end of the stretch.
+If you pass you are immune to this effect until the end of the stretch.
+
+h|19-20 <|
+*Telepathy*
+You can communicate telepathically with a person you can see within range 8.
+While doing this you must concentrate and can't perform any other activity requiring your focus.
+
+
+.4+h|4-5
+
+h|1-5 <|
+*Atrophy*.
+Your STR is permanently reduced by d4.
+
+h|6-10 <|
+*Painful boils*.
+Your AGI is permanently reduced by d4.
+
+h|11-15 <|
+*Brain rot*.
+Your WIT is permanently reduced by d4.
+
+h|16-20 <|
+*Curse*.
+Your maximum omens are permanently reduced by 1.
+Reroll if they are already 0.
+
+
+.5+h|6-8
+
+h|1-4 <|
+*Unusual skin*.
+Your skin develop an unusual colour, pattern, or appearance.
+D6: 1) bright red; 2) corpse-like flesh; 3) multi-chromatic; 4) metallic; 5) hairless; 6) covered in strange markings.
+
+h|5-8 <|
+*Unusual eyes*.
+Your eyes develop an unusual colour, pattern, or appearance.
+This doesn't affect your ability to see.
+D6: 1) empty sockets; 2) eyes like a starry night; 3) burning flames; 4) eye-stalks; 5) lizard-like; 6) blood red.
+
+h|9-12 <|
+*Unusual hair*.
+Your hair develops an unusual colour, pattern, or appearance.
+D6: 1) bright red and waving like a living flame; 2) crawling maggots; 3) silvery white and strong like metal; 4) moving in spirals; 5) weak and patchy; 6) leafy vines.
+
+h|13-16 <|
+*Unusual odour*.
+Your body emits an unusual, very noticeable odour.
+D6: 1) musk; 2) sulphur; 3) dung; 4) rotten flesh; 5) ammonia; 6) rusted iron.
+
+h|17-20 <|
+*Unusual voice*.
+Your voice changes in an unusual way.
+D6: 1) raspy whisper; 2) hissing; 3) high pitched; 4) powerful growl; 5) buzzing as if produced by insects; 6) unrecognisable accent.
+
+
+.10+h|9-10
+
+h|1-2 <|
+*Lost body part*.
+One part of your body disappears, potentially bringing similar disadvantages as an injury.
+D6: 1) an arm; 2) a leg; 3) an eye; 4) an ear; 5) your nose; 6) your teeth.
+
+h|3-4 <|
+*Extra body part*.
+An additional body part sprouts somewhere on your body.
+D6: 1) an arm; 2) a leg; 3) an eye; 4) an ear; 5) a nose; 6) a mouth.
+
+h|5-6 <|
+*Re-arranged body parts*.
+Some body parts swap their positions, for example your legs with your arms, or your eyes with your ears.
+
+h|7-8 <|
+*Weird blood*.
+Your blood is replaced by some weird substance.
+D6: 1) acid; 2) insects; 3) mud; 4) resin; 5) wine; 6) glue.
+
+h|9-10 <|
+*Bestial legs*.
+D6: 1) goat legs; 2) grasshopper legs (can jump farther away); 3) spider legs (can climb sheer surfaces easily); 4) bird legs; 5) lizard legs; 6) fish tail (can swim at full speed, halves movement speed on land).
+
+h|11-12 <|
+*Bestial arm*.
+D6: 1) tentacle (your grapple attacks can't be saved against); 2) crab pincer (d6 damage); 3) sharp claws (d4 damage); 4) wing (not functional); 5) gorilla arm (d4 damage, STR permanently increased by 1); 6) mantis scythe (d6 damage).
+
+h|13-14 <|
+*Bestial head*.
+D6: 1) horned goat head (horns: d4 damage); 2) fly head; 3) bird head (beak: d4 damage); 4) snake head (bite: d4 damage, damaging poison on 1 or more damage); 5) bat head (echolocation); 6) frog head (sticky tongue with range 1, can grab items and characters of bulk 1 or less).
+
+h|15-16 <|
+*Bestial skin*.
+D6: 1) thick fur; 2) bird feathers; 3) lizard scales; 4) fish scales; 5) elephant skin; 6) turtle shell (armour value 1).
+
+h|17-18 <|
+*Bestial tail*.
+D6: 1) scorpion (d6 damage, paralysing poison on 1 or more damage); 2) monkey (prehensile); 3) goat; 4) lizard (regrows if cut); 5) pig; 6) dog (it wiggles when you are excited);
+
+h|19-20 <|
+*Bestial wings*.
+You gain the _flying (lander)_ trait.
+D4: 1) falcon; 2) butterfly; 3) fly; 4) bat.
+
+
+.10+h|11
+
+h|1 <|
+*Bone spurs*.
+Sharp bone spurs grows all over your body.
+They can be used as a weapon inflicting d6 damage.
+
+h|2 <|
+*Elastic limbs*.
+Your arms, legs, and neck are elastic and can extend up to range 1.
+
+h|3 <|
+*Detachable limbs*.
+You suffer no bleeding when body parts are cut away from you, and you can still move them as if they were still connected to your body.
+Reconnecting them to your body requires stitching.
+
+h|4 <|
+*Acid secretion*.
+You secrete an extremely acid substance.
+Any piece of clothing or armour you wear is destroyed within seconds, and you inflict d4 damage per round to characters you grab.
+
+h|5 <|
+*Foul secretion*.
+You secrete a foul, smelly substance.
+Everyone you touch is exposed to a disease.
+D6: 1) influence; 2) flux; 3) plague; 4) black gangrene; 5) bloodburn; 6) weeping sores.
+
+h|6 <|
+*Skull face*.
+Your face turns into a skull.
+You cause fear within range 4.
+
+h|7 <|
+*Darksight*.
+You can see in darkness, but in normal light you can see at most up to range 1.
+
+h|8 <|
+*Corrosive vomit*.
+Once per day rest, you can vomit a large amount of corrosive liquid.
+This is an attack inflicting d6 damage and destroying the equipment of your target.
+
+h|9 <|
+*Fire breath*.
+Once per day rest, you can breathe a stream of fire.
+This is a blast attack inflicting d6 fire damage.
+
+h|10 <|
+*Swarm of insects*.
+You are constantly accompanied by a swarm of flies, maggots, and cockroaches, swarming around you and molesting anyone trying to harm you.
+Enemies attempting to attack you in melee must pass a STR save to be able to hit you.
+
+.10+h|11
+
+h|11 <|
+*Evil eye*.
+One of your eyes turns black like the night.
+You gain the _sorcery_ skill, or your maximum mana is increased by 1 if you already have the skill.
+Your sight isn't affected.
+
+h|12 <|
+*Eye of the prophet*.
+One of your eyes turn milky white like a pearl.
+Your maximum omens increase by 1 and you immediately gain 1 omen.
+Your sight isn't affected.
+
+h|13 <|
+*Boneless*.
+Your skeleton leaves your body to live its own life as an undead and you become a soft, boneless organism.
+Your STR and AGI are both permanently reduced by d4, but you are able to bend your body in impossible ways.
+
+h|14 <|
+*Skeleton*.
+Your skin and muscles leave your body, leaving you as a bloody skeleton surrounding your internal organs.
+Your become _undead_ and you cause fear within range 4, but your STR and AGI are permanently reduced by d4.
+
+h|15 <|
+*Flying head*.
+Your head detaches from your body, and from now on you must live as a bodiless flying head.
+You gain the _flying (hoverer)_ trait and your STR is permanently halved, besides any other obvious effects such as being unable to hold stuff.
+
+h|16 <|
+*Mouth of truth*.
+A fanged mouth opens on your neck, which reveals your secrets at the least opportune moments.
+It is silenced for a day if it drinks human blood.
+
+h|17 <|
+*Sentient tumour*.
+A cancerous lump grows somewhere on your body.
+It has its own alien intellect and constantly tries to take control over you.
+The GM makes a secret WIT roll for you after each rest: on a fail the tumour takes control over your body for a stretch during the next day.
+When and how is decided by the GM.
+When you die, the tumour detaches from your body and turns into a tiny copy of you, which grows to full size after a week, potentially taking your place in the world.
+
+h|18 <|
+*Evil twin*.
+A lump detaches from your body and grows into an identical twin, who is however extremely evil and will try to soil your good name in any way possible.
+
+h|19 <|
+*Demonic nature*.
+You feel that something is different, as if you didn't belong to this world any more.
+You become a _demon_.
+
+h|20 <|
+*Uncanny resemblance*.
+Your appearances changes to match that of another person.
+
+h|12 h|1-20 | *Roll twice*.
+
+|===

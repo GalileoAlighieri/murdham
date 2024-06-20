@@ -1,0 +1,114 @@
+---
+title: Positioning & Movement
+weight: 100
+prev: /docs/character_creation
+next: /docs/perception_and_knowledge
+---
+:toc:
+
+== Maps
+
+The scenario should provide maps illustrating the regions and sites where the adventure takes place.
+During play the GM can copy the maps on paper as the Players explore locations, gradually revealing their layout and features.
+
+
+== Areas
+
+Maps are divided into areas, which can vary in size and shape to accommodate the features of the location:
+
+* *Zones* are used in maps representing buildings, dungeons, and other small sites.
+A zone covers an area of about 4 m by 4 m, such as a small room, a portion of a large room, a corridor, etc.
+
+* *Sectors* are used in maps representing towns, districts, and other large sites.
+A sector covers an area of about 400 m by 400 m, such as a city district, a large building, a garden, etc.
+
+* *Regions* are used in maps representing vast regions.
+A region covers an area of about 10 km by 10 km, such as a whole city, a portion of a forest, a mountain pass, etc.
+
+
+== Positioning
+
+Characters can be located in an area or on the border between two areas.
+
+Up to 8 characters can fit inside a zone, and up to 2 characters can fit on the border between two zones.
+These numbers are halved for particularly tiny and cramped zones, and doubled for particularly large and open zones.
+Characters can't move through or into a zone or zone border which is already full.
+
+There is no relevant limit on how many characters can fit inside a sector, a region, or their borders.
+
+
+== Range
+
+Ranged attacks, powers, and other effects have a range expressed in number of zones.
+To determine if two zones are within range, find the shortest path between them and count how many zones it crosses, excluding the originating one.
+
+Characters on a border are considered to be in either zone for the purpose of range.
+For example, characters in a zone are at range 0 from all characters in the same zone and on all its borders.
+
+Characters at range 0 from each other are said to be '`nearby`' and can be targeted by melee attacks and other short range effects.
+
+
+== Movement speed
+
+Characters can move by two areas per time unit: two zones in a round, two sectors in a stretch, or two regions in a watch.
+Moving to or from the border between two areas counts as moving by half an area.
+
+Movement speed can be reduced down to half zone per time unit, and if further halved movement isn't possible at all.
+These factors halve movement speed:
+
+* The _encumbered_ and _hobbled_ conditions.
+
+* Moving between sectors and regions in harsh weather (heavy rain, snow, scorching heat, etc.).
+
+* Moving between sectors and regions without following an open path or road (through forests, swamps, mountains, hills, labyrinthic alleys, etc.).
+
+
+== Sprinting
+
+Characters can sprint to double their movement speed.
+They can sprint for a stretch and for an additional stretch if they pass an AGI save, after which they have to catch their breath for a whole stretch before doing anything else.
+It isn't possible to sprint when moving between regions.
+
+
+== Obstacles
+
+* *Difficult ground*.
+Characters moving from a zone of difficult ground (slippery, uneven, or narrow) must move at half speed or pass an AGI save to avoid tripping.
+Characters moving from a zone of very difficult ground (for example both slippery and narrow) must both move at half speed and pass an AGI save to avoid tripping.
+Characters who trip suffer d4 direct damage and must interrupt their movement for the round.
+
+* *Climbing*.
+Movement speed is halved while climbing.
+Characters climbing challenging surfaces must pass an AGI save or fall after moving by a zone.
+Climbing using ladders, ropes, or in similar trivial situations requires no save.
+Climbing challenging surfaces keeps both hands occupied, but it is possible to use one hand while climbing trivial surfaces.
+
+* *Swimming*.
+Movement speed is halved while swimming.
+Characters swimming in turbulent waters or other hazardous situations must pass an AGI save when entering the water and at the start of each following round or start drowning.
+Drowning characters are too exhausted to keep swimming and apply the effects of suffocation (see link:../hazards#_suffocating[Suffocating]).
+Attacks made while in water inflict impaired damage.
+
+* *Leaping*.
+Characters leaping over a significant gap must pass an AGI save to make it to the other side.
+Leaping over very small gaps requires no save.
+
+
+== Sneaking
+
+Characters attempting to move silently and behind cover must pass an AGI save to avoid detection.
+Sneaking in trivial situations, such as in very noisy or dark areas, requires no save.
+
+Sneaking is only done by characters who are intentionally trying not to be noticed by a character they have themselves already spotted, it isn't possible to sneak '`just in case`'.
+Movement speed is halved while sneaking.
+
+
+== Optional rule: grids
+
+You can optionally use a square grid to keep track of positioning instead of zones, with a square representing a distance of 1.5 metres (5 feet).
+Each square can be occupied by a single medium-sized character.
+
+To convert ranges in zones to ranges in squares, multiply by 4.
+For example, a range of 2 zones would correspond to a range of 8 squares.
+
+Anything affecting a whole zone, such as blast attacks, affects a 3 squares by 3 squares area.

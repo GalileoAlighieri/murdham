@@ -1,0 +1,29 @@
+// This file was automatically generated.
+
+== Item modifiers
+
+* *Fragile item* (÷4).
+Gains the _fragile_ keyword.
+
+* *Robust item* (×4).
+Gains the _robust_ keyword.
+
+* *Mastercrafted weapon* (×4).
+The damage die is improved: d4 to d6, d6 to d8, d8 to d10, d10 to d12.
+
+* *Mastercrafted armour* (×4).
+Bulk is halved.
+
+* *Animal armour* (×1).
+Made for dogs or other medium-sized animals without the _sturdy_ trait.
+
+* *Sturdy animal armour* (×4).
+Bulk is doubled. Made for horses or other medium-sized animals with the _sturdy_ trait.
+
+* *Expensive item* (×4).
+A particularly valuable version of another item. Good wine is an expensive _alcoholic drink_, a decorated sword is an expensive _martial hand weapon_, fancy outfits are expensive _clothes_, etc.
+
+* *Luxury item* (×16).
+An extremely valuable version of another item. Fine spirit is a luxury _alcoholic drink_, a gem-encrusted sword is a luxury _martial hand weapon_, aristocratic outfits are luxury _clothes_, etc.
+
+
