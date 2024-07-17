@@ -86,18 +86,18 @@ params:
     combining the atmosphere of old school British role-playing games with light and streamlined rules.
 
   theme:
-    default: system
+    default: dark
     displayToggle: true
 
   navbar:
     displayTitle: true
-    displayLogo: false
-    # logo:
-    #   path: images/logo.svg
-    #   dark: images/logo-dark.svg
-    #     width: 40
-    #     height: 20
-    #     link: /
+    displayLogo: true
+    logo:
+      path: favicon.svg
+      dark: favicon-dark.svg
+      width: 20
+      height: 20
+      # link: /
     width: wide
 
   page:

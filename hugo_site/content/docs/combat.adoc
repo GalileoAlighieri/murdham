@@ -8,27 +8,19 @@ next: /docs/powers
 
 == Combat procedure
 
-During combat time is tracked using rounds, divided into the following steps:
+Time is tracked using rounds during combat.
+A round is divided in the following phases:
 
 . *Initiative phase*.
-Randomly determine which faction has initiative by rolling a die.
-If there are 2 factions, for example, roll a d2.
-On the first round, the faction which started the fight automatically has initiative.
+Randomly determine which faction has the initiative by rolling a die.
+For example, roll a d2 if there are two factions.
+On the first round, the faction which started the fight automatically has the initiative.
 
-. *Reaction phase*.
-All characters involved in the fight, of all factions, make a single group WIT save.
-Those who pass (that is those whose WIT matches or exceeds the rolled number) have fast reaction.
-You can keep the rolled die on the table as a reminder.
-On the first round, characters who were prepared to start the fight automatically have fast reaction.
-
-. *Fast action phase*.
-The factions alternate taking turns with characters with fast reaction, starting with the faction with the initiative.
-Instead of taking turn with a character, a faction can pass.
-If both factions pass consecutively, this phase ends.
-
-. *Slow action phase*.
-The factions alternate taking turns with the remaining characters who didn't during the fast phase, starting with the faction with the initiative.
-This phase ends once all characters have taken their turn, even just to do nothing.
+. *Action phase*.
+The factions alternate taking turns with one character at a time, starting with the faction with the initiative.
+Each character can only take turn once per round.
+A faction can choose to pass instead of taking turn with a character, and if all factions pass consecutively the phase ends.
+A faction who has already taken turn with all its characters can only pass.
 
 . *Morale phase*.
 Check if any faction must make a morale check (see <<_morale>>).
@@ -40,7 +32,6 @@ During their turn characters can _move_ by 2 zones, perform a _bonus action_, an
 It is possible to split movement before and after taking actions.
 
 Alternatively, characters can take their turn outside of the normal order to perform a _reaction_ in response to a specific trigger.
-Characters can always react during the fast action phase even if they don't have fast reaction.
 
 
 == Main actions
@@ -224,9 +215,56 @@ If the fleeing characters can move faster or keep the speed for longer, the save
 If the opposite is true, escaping is impossible.
 
 
+== Optional rule: fast and slow activations
+
+You can use this optional rule if you would like WIT to influence the order in which characters act during the round and you don't mind a little bit of extra complexity.
+
+At the beginning of each round, right after the initiative phase, the GM openly rolls a d20.
+The result is the fast action threshold.
+You can leave the d20 on the table as a reminder of this value.
+
+The action phase is divided in two sub-phases: fast and slow.
+Each sub-phase follows the normal action phase rules, with the following additions:
+
+* During the fast action sub-phase, only characters whose WIT matches or exceeds the fast action threshold can take their turn.
+As an exception, on the first round only, characters who initiated the fight or were prepared for it can always take their turn, no matter what their WIT is.
+
+* During the slow action sub-phase, the characters who haven't taken their turn yet can now do so.
+This includes both characters who couldn't take action during the fast action sub-phase, and those who didn't due to early passing.
+
+Characters can always react in any sub-phase, no matter what their WIT score is.
+
+++++
+{{% details title="Example" closed="true" %}}
+
+Balthasar (WIT 12), Sybilla (WIT 6), and Theobald (WIT 9) are fighting against two bandits (WIT 8) and their leader (WIT 10);
+The Players have the initiative.
+
+The GM rolls a d20 to determine the fast action threshold: the result is 9.
+During the fast action sub-phase, only Balthasar, Theobald, and the bandit leader can act.
+Sybilla and the two bandits can't, because their WIT is lower than 9.
+
+The fast action sub-phase begins.
+Since the Players have the initiative, they take turn first.
+They choose Theobald to go first: he decides to attack one of the two bandits.
+The bandit chooses to react to the attack by dodging: they can do so even if they can't take turn during the fast action phase because reactions are always allowed.
+After the attack is resolved, it's the enemies' turn and the bandit leader acts.
+Balthasar could then act, but the Players decide to pass instead.
+The bandits must pass because they have no characters left who can act, and the sub-phase ends.
+
+The slow action sub-phase begins.
+All characters who haven't acted yet can take a turn: Balthasar, Sybilla, and one of the bandits, the one who didn't react to the attack.
+The Players again start because they have the initiative.
+Sybilla goes first, followed by the bandit, and ending with Balthasar.
+Both factions must pass because they have no characters left, and the action phase ends.
+
+{{% /details %}}
+++++
+
+
 == Optional rule: the chaos of combat
 
-These are optional rules you can use to represent the chaotic nature of combat and to reduce the amount of time spent to resolve fights if the Players like to strategise and think a lot.
+These is an optional rule you can use to represent the chaotic nature of combat and to reduce the amount of time spent to resolve fights if the Players like to strategise and think a lot.
 If you prefer a more '`relaxed`' and tactical experience, feel free to ignore them.
 
 * The Players aren't allowed to speak to each other unless their character spends a bonus action to say a short sentence.

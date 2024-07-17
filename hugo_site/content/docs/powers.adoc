@@ -146,7 +146,7 @@ Reroll if this doesn't make sense.
 The invoker and all creatures within range 1 are exposed to the '`demon pox`' disease.
 
 |10 |
-The invoker suffers a random mutation (roll on the <<tb_mutations>> table).
+The invoker suffers a random mutation (roll on the link:../corruption_and_mutation/#tb_mutations[Mutations] table).
 
 |11 |
 A demon enters the world nearby the invoker.
