@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <div class="rules-layout">
+    {{ partial "nav_section.html" (dict "page" .)}}
+    <div>
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </div>
+    <aside class="side-nav">
+      <details open>
+        <summary>On this page</summary>
+        {{ .TableOfContents }}
+      </details>
+    </aside>
+  </div>
+{{ end }}

@@ -1,0 +1,44 @@
+@import url("https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.pumpkin.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Averia+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+:root {
+  --pico-font-family-sans-serif: "Averia Libre", system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif, var(--pico-font-family-emoji);
+  --pico-font-family: "Averia Serif Libre", var(--pico-font-family-sans-serif);
+}
+
+.rules-layout {
+  display: grid;
+  grid-template-columns: 15% 70% 15%;
+  grid-template-rows: 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  justify-items: stretch;
+  align-items: stretch;
+}
+
+.top-nav{
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+[data-theme=light]
+.top-nav {
+  background-color: #fff;
+}
+
+@media only screen and (prefers-color-scheme: dark) {
+  .top-nav {
+    background-color: #13171f;
+  }
+}
+
+.side-nav{
+  position: sticky;
+  top: 0;
+  font-size: 80%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  max-height: 100vh;
+  --pico-nav-element-spacing-vertical: 0.5rem;
+}

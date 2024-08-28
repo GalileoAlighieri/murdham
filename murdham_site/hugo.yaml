@@ -1,0 +1,18 @@
+baseURL: https://galileoalighieri.github.io/murdham/
+languageCode: en-uk
+title: Murdham
+
+params:
+  author:
+    email: galileo.alighieri@gmail.com
+    name: Galileo Alighieri
+  copyright-year: 2024
+
+menus:
+  main:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: Rules
+    pageRef: /rules
+    weight: 20
