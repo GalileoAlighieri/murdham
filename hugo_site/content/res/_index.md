@@ -2,6 +2,10 @@
 title: Murdham Resources
 ---
 
-{{< cards >}}
-  {{< card link="../res/character_sheet_a4.pdf" title="Character Sheet" icon="document-duplicate" >}}
-{{< /cards >}}
+{{< hextra/feature-grid >}}
+
+  {{< cards >}}
+    {{< card link="../res/character_sheet_a4.pdf" title="Character Sheet" icon="document" >}}
+  {{< /cards >}}
+
+{{< /hextra/feature-grid >}}

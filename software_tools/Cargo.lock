@@ -151,6 +151,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "gen_js_data"
+version = "0.1.0"
+dependencies = [
+ "character",
+ "clap",
+ "regex",
+]
+
+[[package]]
 name = "gen_rules"
 version = "0.1.0"
 dependencies = [

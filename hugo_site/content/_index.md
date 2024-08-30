@@ -15,10 +15,21 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx-mb-6">
-{{< hextra/hero-button text="Read the rules" link="docs" >}}
-{{< hextra/hero-button text="Resources" link="res" >}}
-</div>
+{{< hextra/feature-grid >}}
+
+  {{< cards >}}
+    {{< card link="docs" title="Read the rules" icon="document-duplicate" >}}
+  {{< /cards >}}
+
+  {{< cards >}}
+    {{< card link="res/character_generator" title="Character generator" icon="user-group" >}}
+  {{< /cards >}}
+
+  {{< cards >}}
+    {{< card link="res" title="Resources" icon="cloud-download" >}}
+  {{< /cards >}}
+
+{{< /hextra/feature-grid >}}
 
 <div class="hx-mt-6"></div>
 

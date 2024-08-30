@@ -152,9 +152,9 @@ impl Skill {
                  handy, the GM you might give you additional information."
             ),
             Self::Languages => format!(
-                "You can read and write.
-                 Each time you enter into contact with a language there is chance you know it: 1:2 \
-                 for common languages, 1:4 for dead or remote languages."
+                "You can read and write. Each time you enter into contact with a language there \
+                 is chance you know it: 1:2 for common languages, 1:4 for dead or remote \
+                 languages."
             ),
             Self::Alchemy => format!(
                 "You can read and write. You can speak and understand Classic, the language of \

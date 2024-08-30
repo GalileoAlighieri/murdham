@@ -99,8 +99,7 @@ When you use a _medicine box_, your patients always recover half their maximum h
 You automatically follow trails without a WIT save in normally challenging circumstances, and by passing a WIT save in almost impossible situations. When you forage, on a _small game_ result you find an additional _ration_, even if you don't have _trapping tools_.
 
 * *Languages*.
-You can read and write.
-                 Each time you enter into contact with a language there is chance you know it: 1:2 for common languages, 1:4 for dead or remote languages.
+You can read and write. Each time you enter into contact with a language there is chance you know it: 1:2 for common languages, 1:4 for dead or remote languages.
 
 * *Leadership*.
 You can inspire, intimidate, and keep the loyalty of retainers, allies, and other underlings without a WIT save in challenging circumstances, and by passing a WIT save in almost impossible circumstances. You can spend a main action to rally all _frightened_ and _terrified_ allies within range 2. They make a group WIT save and those who succeed recover immediately. Each character can be affected by this skill only once per stretch.
