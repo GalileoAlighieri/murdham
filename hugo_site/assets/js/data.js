@@ -414,7 +414,7 @@ money: 0,
 {
 masculine_name: "Rat catcher",
 feminine_name: "Rat catcher",
-description: "Nobody likes rats, but you know they are delicious and extremely useful: nothing from rats goes to waste!",
+description: "Rats are everywhere and nobody likes them. You offer your services to get rid of them, but you swear they are getting bigger and nastier by the day...",
 abilities: [0, 0, 0],
 skills: {
 "Disease resistance": "After you recover from a disease, you become immune to it and can't contract it again.",
@@ -737,7 +737,7 @@ export const appearances = [
 "Perfect skin, smooth as silk.",
 "Large birthmark, surely proof you are of noble blood.",
 "Large tattoo, it represents something important to you.",
-"Numerous piercings, your face looks like a jewellery.",
+"Numerous piercings, your face looks like a jewellery store.",
 "Bald, either by choice or by necessity.",
 "Long and luscious hair, your pride and joy.",
 "Dyed hair, in an unusual colour.",

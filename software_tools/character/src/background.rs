@@ -182,8 +182,8 @@ impl Background {
                  enthralling stories."
             }
             Self::RatCatcher => {
-                "Nobody likes rats, but you know they are delicious and extremely useful: nothing \
-                 from rats goes to waste!"
+                "Rats are everywhere and nobody likes them. You offer your services to get rid of \
+                 them, but you swear they are getting bigger and nastier by the day..."
             }
             Self::RuinedNoble => {
                 "Your house has fallen and you must now mingle with the lowly scum, but the day \

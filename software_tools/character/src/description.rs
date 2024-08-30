@@ -70,7 +70,7 @@ pub fn appearances() -> &'static [&'static str] {
         "Perfect skin, smooth as silk.",
         "Large birthmark, surely proof you are of noble blood.",
         "Large tattoo, it represents something important to you.",
-        "Numerous piercings, your face looks like a jewellery.",
+        "Numerous piercings, your face looks like a jewellery store.",
         "Bald, either by choice or by necessity.",
         "Long and luscious hair, your pride and joy.",
         "Dyed hair, in an unusual colour.",

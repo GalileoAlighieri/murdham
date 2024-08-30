@@ -115,7 +115,7 @@ You have travelled far and wide across the kingdom, singing songs and acting out
 *Assets*: clothes (flamboyant and fashionable), music instrument (fiddle).
 
 * *Rat catcher*.
-Nobody likes rats, but you know they are delicious and extremely useful: nothing from rats goes to waste!
+Rats are everywhere and nobody likes them. You offer your services to get rid of them, but you swear they are getting bigger and nastier by the day...
 *Skills*: _disease resistance_, _poison resistance_.
 *Assets*: clothes (partly made of rat fur), trapping tools (bulk 2), small dog (Brutus, trained to hunt rats, small but vicious).
 
