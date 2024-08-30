@@ -1,0 +1,45 @@
+{{ with resources.Get "js/generate_character.js" }}
+  <div class="content" style="text-align:center">
+
+    <div>
+      <h3 id="name">Name</h3>
+      <div id="description" style="margin-top:1em">
+        Description
+      </div>
+      <div style="margin-top:1em">
+        <strong>STR </strong><span id="str">0</span>,
+        <strong>AGI </strong><span id="agi">0</span>,
+        <strong>WIT </strong><span id="wit">0</span>
+        <span id="mana-display"> - <strong>Mana </strong><span id="mana">0</span></span>
+      </div>
+      <div style="margin-top:1em" id="skills">Skills.</div>
+      <div style="margin-top:1em">
+        <strong>Assets: </strong><span id="assets">assets</span>.
+      </div>
+    </div>
+
+    <div>
+      <button
+        class="not-prose hx-font-medium hx-cursor-pointer hx-px-6 hx-py-3 hx-rounded-full hx-text-center hx-text-white hx-inline-block hx-bg-primary-600 hover:hx-bg-primary-700 dark:hx-bg-primary-600 dark:hover:hx-bg-primary-700 dark:focus:hx-ring-primary-800 hx-transition-all hx-ease-in hx-duration-200"
+        style="margin-top:2em"
+        type="button"
+        id="chargen_button"
+      >
+        New character
+      </button>
+    </div>
+
+  </div>
+
+  {{ if hugo.IsDevelopment }}
+    {{ with . | js.Build }}
+      <script src="{{ .RelPermalink }}"></script>
+    {{ end }}
+  {{ else }}
+    {{ $opts := dict "minify" true }}
+    {{ with . | js.Build $opts | fingerprint }}
+      <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+    {{ end }}
+  {{ end }}
+
+{{ end }}
