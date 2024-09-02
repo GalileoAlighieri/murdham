@@ -22,11 +22,11 @@ layout: hextra-home
   {{< /cards >}}
 
   {{< cards >}}
-    {{< card link="res/character_generator" title="Character generator" icon="user-group" >}}
+    {{< card link="character_generator" title="Character generator" icon="user-group" >}}
   {{< /cards >}}
 
   {{< cards >}}
-    {{< card link="res" title="Resources" icon="cloud-download" >}}
+    {{< card link="game_resources" title="Game Resources" icon="cloud-download" >}}
   {{< /cards >}}
 
 {{< /hextra/feature-grid >}}

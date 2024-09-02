@@ -64,10 +64,10 @@ menu:
       pageRef: /docs
     - name: Character generator
       weight: 2
-      pageRef: /res/character_generator
+      pageRef: /character_generator
     - name: Resources
       weight: 3
-      pageRef: /res
+      pageRef: /game_resources
     - name: Itch.io
       weight: 4
       url: https://galileo-alighieri.itch.io/murdham

@@ -1,5 +1,20 @@
 {{ with resources.Get "js/generate_character.js" }}
+
   <div class="content" style="text-align:center">
+
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
+      <div></div>
+      <button
+        class="hextra-card hx-px-6 hx-py-3 hx-text-center hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900"
+        type="button"
+        id="chargen_button"
+      >
+        <span class="hextra-card-icon hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50">
+          New Character
+        </span>
+      </button>
+      <div></div>
+    </div>
 
     <div>
       <h3 id="name">Name</h3>
@@ -16,17 +31,6 @@
       <div style="margin-top:1em">
         <strong>Assets: </strong><span id="assets">assets</span>.
       </div>
-    </div>
-
-    <div>
-      <button
-        class="not-prose hx-font-medium hx-cursor-pointer hx-px-6 hx-py-3 hx-rounded-full hx-text-center hx-text-white hx-inline-block hx-bg-primary-600 hover:hx-bg-primary-700 dark:hx-bg-primary-600 dark:hover:hx-bg-primary-700 dark:focus:hx-ring-primary-800 hx-transition-all hx-ease-in hx-duration-200"
-        style="margin-top:2em"
-        type="button"
-        id="chargen_button"
-      >
-        New character
-      </button>
     </div>
 
   </div>
