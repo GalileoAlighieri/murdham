@@ -59,7 +59,6 @@ function generate_character() {
     }
     let last_name = random_array_element(Data.last_names);
 
-
     let assets = [weapon, item];
     for (let i = 0; i < background.assets.length; i++) {
         assets.push(background.assets[i]);
@@ -70,6 +69,27 @@ function generate_character() {
     for (let i = 0; i < background.sacred_scrolls; i++) {
         assets.push(random_array_element(Data.sacred_scrolls));
     }
+
+    let assets_map = {};
+    for (asset of assets) {
+        if (asset in assets_map) {
+            assets_map[asset]++;
+        }
+        else {
+            assets_map[asset] = 1;
+        }
+    }
+
+
+    let assets_str = "";
+    for (const [asset, count] of Object.entries(assets_map)) {
+        if (count > 1) {
+            assets_str += count + "× ";
+        }
+        assets_str += asset + ", ";
+    }
+
+
     let money = money1 + money2 + money3 + background.money;
 
     document.getElementById("name").innerHTML = first_name + " " + last_name + " the " + background_name;
@@ -96,7 +116,7 @@ function generate_character() {
     }
 
     document.getElementById("skills").innerHTML = skill_content;
-    document.getElementById("assets").innerHTML = assets.join(", ") + ", " + money + "ʂ";
+    document.getElementById("assets").innerHTML = assets_str + money + "ʂ";
 }
 
 document.getElementById("chargen_button").onclick = generate_character;

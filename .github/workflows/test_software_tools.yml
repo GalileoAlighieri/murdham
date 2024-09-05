@@ -34,6 +34,14 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             exit 2
           fi
+      - name: Run gen_js_data
+        working-directory: software_tools
+        run: |
+          cargo run -p gen_js_data -- -o ../hugo_site/assets/js/data.js
+          git diff
+          if [[ -n $(git status --porcelain) ]]; then
+            exit 2
+          fi
       - name: Run gen_character
         working-directory: software_tools
         run: cargo run -p gen_character
