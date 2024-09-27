@@ -57,35 +57,6 @@ languages:
     languageName: English
     weight: 1
 
-menu:
-  main:
-    - name: Rulebook
-      weight: 1
-      pageRef: /docs
-    - name: Character generator
-      weight: 2
-      pageRef: /character_generator
-    - name: Resources
-      weight: 3
-      pageRef: /game_resources
-    - name: Itch.io
-      weight: 4
-      url: https://galileo-alighieri.itch.io/murdham
-    - name: Search
-      weight: 10
-      params:
-        type: search
-    - name: Discord
-      weight: 20
-      url: https://discord.gg/TcSSPBYD
-      params:
-        icon: discord
-    - name: GitHub
-      weight: 21
-      url: https://github.com/GalileoAlighieri/murdham
-      params:
-        icon: github
-
 params:
   description: >
     A role-playing game of perilous adventures in a fantasy world,

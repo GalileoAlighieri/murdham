@@ -1,3 +1,0 @@
-[workspace]
-resolver = "2"
-members = [ "asciidoc", "character", "gen_character", "gen_js_data", "gen_rules", "profiles"]

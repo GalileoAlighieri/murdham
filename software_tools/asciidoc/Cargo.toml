@@ -1,9 +1,0 @@
-[package]
-name = "asciidoc"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-regex = "1.10.*"
-convert_case = "0.6.*"
-character = { path = "../character" }
